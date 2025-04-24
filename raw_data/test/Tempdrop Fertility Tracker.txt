@@ -1,0 +1,161 @@
+ ×
+Your coupon code has been successfully applied
+
+Ok
+Fertility tracking, made easy! Buy Now!
+
+Tempdrop
+Skip to navigation (n)
+Skip to content (c)
+Skip to footer (f)
+How it works
+Fertility Q&A
+Blog
+FAQ
+Reviews
+Clearance Items
+Buy Now
+Privacy Policy
+Privacy Policy
+ This Privacy Policy (the “Policy”) explains how your personal information is collected and used when you use the Tempdrop and OvuView services ("Tempdrop" and "OvuView" respectively), and the Tempdrop website, available at www.tempdrop.com (the "Website").
+
+Tempdrop and OvuView are online systems that help women to track their fertility cycle. Tempdrop is comprised of a mobile application (the “Tempdrop App”) and an accompanying wearable device (the “Sensor”). OvuView operates solely through a designated mobile application (the "OvuView App"), without an accompanying device. Both mobile applications will be referred to hereinafter together as the "Apps". The Apps and the Website are owned and operated by Tempdrop Ltd. (the “Company”, “we”, “us”, “our”).
+
+ We respect your privacy. Please read this Policy carefully to understand our privacy practices in relation to the Apps and the Website, your rights and the options available to you with respect to your personal information.
+
+PERSONAL DATA WE PROCESS
+Upon registration to the Apps we collect your full name and email address.	Registration Information. The Apps are available only to Registered Users. When you register to the Apps and open an account, we collect your full name, date of birth, email address and your purpose for using the Apps.
+
+When registering to the OvuView App, you may alternatively create an account using your existing account on third-party services such as Facebook or Google, in which case we will collect any personal information that is publicly available on your third-party account, for instance, your Facebook ID, full name and email address. This information is used exclusively to authenticate your identity and grant your access to the OvuView App.
+When you use the Tempdrop App with the Sensor, we collect measurements of your body temperature and motion. We also collect other sensitive health information you provide to us through the App.	Sensitive Health Information. When you use the Tempdrop App together with the Sensor, we collect measurements of your body temperature and motion. We also collect health-related information that you actively choose to provide to us through the Tempdrop App such as your height, weight, health history/medical conditions, pregnancy status, menstruation, cervical mucus, oral body temperature, cervix status, intercourse, ovulation testing results, premenstrual/hormonal body symptoms, and disturbances (alcohol, sickness and medications).
+You can also enter free text to the Tempdrop App, for your own notes. Depending on what you type, this text can contain sensitive information. We do not analyze or make use of written text data.
+We collect any measurements and other sensitive health data you enter into the OvuView App	Sensitive Health Information. We collect any measurements and other sensitive health information you manually enter into the OvuView App. These may include your height, weight, health history/medical conditions, pregnancy status, menstruation, cervical mucus, oral body temperature, cervix status, intercourse, ovulation testing results, premenstrual/hormonal body symptoms or other custom symptoms set by you, and disturbances (alcohol, sickness and medications).
+You can also enter free text to the OvuView App for your own notes. Depending on what you type, this text can contain sensitive information. We do not analyze or make use of this written text data.
+
+Although the OvuView App is not connected to the Sensor or any other external device, you may choose to integrate your Tempdrop App with your OvuView App. In such case, if you use your Tempdrop App with a Sensor, the temperature result collected by the Sensor will be synchronized into the OvuView App.
+When you purchase the Sensor through our website, we collect your full name, mobile phone number and address.	Purchase Information. When you purchase the Sensor through our Website, we collect your full name, mobile phone number and address. We also collect the details of your supported payment method such as PayPal. When payment is made through a third party, the Payment Information is collected and processed by such third party, not directly by us, and is also subject to such third party’s privacy policy.
+When you contact us for technical support or other inquiries, we collect the information related to your inquiry.	Inquiry Information. When you contact us for technical support or other inquiries, we collect the information related to your inquiry such as the nature of your inquiry and your contact information.
+When you subscribe to our newsletter, we collect your full name and email address.	Subscription Information. When you subscribe to our newsletter through the Website, we collect your full name and email address.
+You are not legally required to provide us your information.	You do not have a legal duty to provide us the above information. However, you will not be able to sign up to the Apps without providing us the Registration Information. In addition, you may not be able to benefit from the full functionality of the Apps without providing the Sensitive Health Information and Purchase Information.
+We collect your device information.	Metadata. When you access the Apps or the Website, we collect information about your personal computer or mobile device, including its model, your device’s geolocation, its operating system, unique device identifiers, mobile network information and the Internet Protocol (IP) address through which you accessed the Apps or the Website.
+We collect analytic information about your use of the Service.	Analytics Information. When you access the Apps or the Website, we use our own and third-party analytics tools, such as Google Analytics, to automatically collect aggregated information about your use of the Apps or Website. For example, we may record the frequency and scope of your use of the Apps or Website, the duration of your sessions and your interaction with the Apps or Website.
+HOW WE PROCESS AND USE PERSONAL DATA
+We process your data for the following purposes:
+To operate the Apps.	We process your Registration Information (including, where relevant, any information that is publicly available on your third-party account) and Purchase Information to facilitate the access and use of the Apps, and to operate the Apps.
+The legal basis under EU law for processing this Information is the performance of our Terms of Use contract with you and our legitimate interest in the proper operation of the Apps for the benefit of our business and our users.
+To provide you with the full features and functionality of Apps.	We process your Sensitive Health Information (whether collected by us through the Sensor or entered manually by you) to provide you with the Apps' full features and functionality.
+The legal basis under EU law for processing your Sensitive Health Information is your explicit consent.
+To develop and improve the Apps.	We process aggregated Sensitive Health Information and Registration Information in order to improve our predictive models and further develop our Apps.
+The legal basis under EU law for processing aggregated Sensitive Health Information and Registration Information is your explicit consent.
+For security and monitoring purposes.	We process Metadata for security and monitoring purposes.
+The legal basis under EU law for processing Metadata is our legitimate interest in monitoring the proper functioning of the Apps and Website and securing the Apps and Website.
+To personalize and improve the Apps and Website.	We process your Analytics Information to understand how users interact with the Apps and Website so that we can personalize and improve them.
+The legal basis under EU law for processing your Analytics Information is our legitimate interest in understanding how the Apps and Website are used in order to personalize and improve them.
+To conduct research and analysis.	
+We process your Sensitive Health Information and Registration Information from the Tempdrop App to create a de-identified copy of it for use in research and studies. The purpose of these is to establish the efficacy of the Tempdrop App and Sensor and to aid advances in the field of women’s sexual and reproductive health.
+
+We will never use your free entered notes or any free typed text which you may enter into the Tempdrop App.
+
+We may publicly share insights learned from this data for the purpose of aiding the understanding of women's health and establishing the efficacy of the Tempdrop App and Sensor. Publicly shared data will always be on an aggregated, anonymised basis that does not contain any identifying or identifiable information.
+
+The legal basis under EU law for processing your Sensitive Health Information and Registration Information from the Tempdrop App for research is your explicit consent.
+To provide technical support and respond to your inquiries.	We process your Inquiry Information to provide you with technical support and respond to your inquiry.
+The legal basis under EU law for processing your Inquiry Information is our legitimate interest in providing customer service and responding to customer inquiries.
+To provide you with our newsletter.	We process your Subscription Information to provide you with newsletter updates about our services.
+The legal basis under EU law for processing this information is your explicit consent to receive our newsletter.
+WHEN IS YOUR PERSONAL DATA SHARED WITH OTHERS
+We do not sell your personal information to third parties.
+
+We will not share your information with third parties, except in the events listed below or when you provide us your explicit and informed consent.
+We will share your information with our service providers helping us to operate the Apps and Website.	We will share your personal information with service providers, who assist us with the internal operation of the Apps and Website. These companies are authorized to use your personal information only as necessary to provide these services to us and not for their own purposes. The service providers we use are listed here: https://www.tempdrop.com/pages/3rd-parties
+We will share a de-identified copy of your Sensitive Health Information from the Tempdrop App with external researchers who help us in conducting research.	
+We process your Sensitive Health Information and Registration Information from the Tempdrop App to create a de-identified copy of it and share that de-identified copy with third parties who help us in conducting research and studies.
+
+We will never use your free entered notes or any free typed text which you may enter into the Tempdrop App.
+
+These researchers may also publicly share insights learned from this data for the purpose of aiding the understanding of women's health and establishing the efficacy of the Tempdrop App and Sensor. Publicly shared data will always be on an aggregated, anonymised basis that does not contain any identifying or identifiable information
+
+The legal basis under EU law for processing your Sensitive Health Information and Registration Information from the Tempdrop App with third parties conducting research is your explicit consent.
+If you violate our terms of service, we will share your information with third parties relevant to the handling of the violation.	If you violate our terms of service, we will share your Registration Information with relevant third parties (such as legal counsels and advisors), for the purpose of handling the violation.
+The legal basis under EU law for such processing is our legitimate interest in enforcing our legal rights.
+We will share your information if we are legally required.	
+If we are required to disclose your information by a judicial, governmental, or regulatory authority, we will make efforts to dismiss the requirement using legal measures. If, despite our candid efforts, we are nevertheless obligated to disclose your information, we will disclose the minimum information required.
+
+Remember, you can request to delete your information at any time. Once your information is deleted, it will not be subject to any disclosure.
+
+The legal basis under EU law for this processing is our legitimate interest in complying with the legal obligations we are subject to.
+We will share your information if the operation of the Company is organized within a different framework.	If the operation of the Company is organized within a different framework, or through another legal structure or entity (such as due to a merger or acquisition), provided that those entities agree to be bound by the provisions of this Policy, with reasonably necessary changes taken into consideration.
+The legal basis under EU law for this processing is our legitimate interest in business continuity, following a structural change.
+If you are an individual in the U.S., we may share your email address with Facebook for our marketing purposes.	If you are an individual in the U.S., your acceptance of our Terms of Use also constitutes your consent to us sharing your email address with Facebook for two specific marketing purposes: (1) to exclude you from our future Facebook marketing campaigns; (2) to improve our marketing campaigns by using Facebook Lookalike Audience tool.
+SECURITY AND DATA RETENTION
+We retain your personal data as long as you are a Registered User of the Apps and thereafter for compliance and legal purposes.	We retain your personal data as long as you are a Registered User of the Apps or for as long as necessary for the operation of our Website. Thereafter, we will continue to retain your personal information as necessary to comply with our legal obligations, resolve disputes, establish and defend legal claims. Regardless, if you delete your account on an App, we will immediately delete all identifying and identifiable data from your profile and will only retain your non-identifiable data.
+We implement measures to secure your Information.	We implement measures to reduce the risks of damage, loss of information and unauthorized access or use of information. However, these measures do not provide absolute security. Therefore, although efforts are made to secure your personal information, it is not guaranteed, and you cannot expect, that the Apps and the Website will be immune from information security risks.
+INTERNATIONAL DATA TRANSFER
+We will transfer your Information internationally only in accordance with applicable data protection laws.	
+The Apps, by their nature as online services, may store and process Information in various locations throughout the globe, including through cloud services.
+
+Transfer of Information outside the EU, EEA or UK. Information we collect from you will be processed in Israel, which is recognized by the European Commission or the UK Government as having adequate protection for personal data. Additionally, it will be hosted in servers in the United States.
+
+When we transfer your information from within the EU, EEA and UK to the United States or other countries, which are not recognized by the European Commission or the UK Government as having adequate protection for personal data, we will endeavor to do so while using adequate safeguards determined by the European Commission and the UK Government, such as the standard contractual clauses.
+
+YOUR EU AND UK RIGHTS
+You have the right to access, update or delete your Information and obtain a copy of your Information.	
+If you are an individual in the EU, EEA or UK, you have the following rights:
+
+Right to Access your personal data that we process and receive a copy of it.
+
+Right to Rectify inaccurate personal data we have concerning you and to have incomplete personal data completed.
+
+Right to Data Portability, that is, to receive the personal data that you provided to us, in a structured, commonly used and machine-readable format. You have the right to transmit this data to another service provider. Where technically feasible, you have the right that your personal data be transmitted directly from us to the service provider you designate.
+
+If the legal basis for processing your personal information is your consent, you may Withdraw Your Consent at any time. If you do that, we will still process certain information on legal basis other than consent, as described in this Policy. Withdrawing your consent will not affect the lawfulness of data processing we carried out based on your consent before such withdrawal.
+
+Right to Object, based on your particular situation, to using your personal data on the basis of our legitimate interest. However, we may override the objection if we demonstrate compelling legitimate grounds, or for the establishment, exercise of defense of legal claims. You may also object at any time to the use of your personal data for direct marketing purposes.
+
+Right to Restrict processing your personal data (except for storing it) if you contest the accuracy of your personal data, for a period enabling us to verify its accuracy; if you believe that the processing is unlawful and you oppose the erasure of the personal data and request instead to restrict its use; if we no longer need the personal data for the purposes outlined in this Policy, but you require them to establish, exercise or defend relating to legal claims; or if you object to processing, pending the verification whether our legitimate grounds for processing override yours.
+
+Right to be Forgotten. Under certain circumstances, such as when you withdraw your consent, you have the right to ask us to erase your personal data. However, we may still process your personal data if it is necessary to comply with a legal obligation under UK or EU laws, or for the establishment, exercise or defense of legal claims.
+
+If you wish to exercise any of these rights, please contact us at contact@temp-drop.com.
+
+We reserve the right to ask for reasonable evidence to verify your identity before we provide you with information. Where we are not able to provide you with information that you have asked for, we will explain the reason for this.
+
+You have a right to submit a complaint to the relevant supervisory data protection authority.	Subject to applicable law, you have the right to lodge a complaint with your local data protection authority. If you are in the EU, you can lodge a complaint to the supervisory authority, in particular in the Member State of your residence, place of work or of an alleged infringement of the GDPR. For a list of supervisory authorities in the EU, click here. If you are in the UK, you can lodge a complaint to the Information Commissioner’s Office (ICO) pursuant to the instructions provided here.
+MINORS
+We do not knowingly collect information from minors under the age of 16.	The Apps and the Website are not intended for minors under the age of 16. We do not knowingly or intentionally collect information from minors under the age of 16.
+CHANGES TO THIS PRIVACY POLICY
+If we change this Policy, we will provide notice of such change.	From time to time, we may change this Policy, in which case we will notify you of the updated Policy through the Apps and our Website or through an email message. The latest version of the Policy will always be accessible on the Apps and the Website.
+DATA CONTROLLER
+We are the data controller of the personal data we collect through the Service.	Tempdrop Ltd. is the data controller of the personal data we collect and process through the Apps and the Website.
+CONTACT US
+You can contact us at contact@temp-drop.com	
+If you have any questions or requests concerning your personal data or about our privacy practices and policies, you may contact our Data Protection Officer at contact@temp-drop.com.
+
+You may also find answers to your questions on our designated privacy related FAQ webpage.
+
+If you are a resident of the EU, you may contact our European representative	Our European representative for the purpose of this Notice are MedNet EC-REP GmbH, located at Borkstrasse 10, 48163 Muenster, Germany.
+If you are a resident of the UK, you may contact our UK representative	Our UK representative for the purpose of this Notice are MT Promedt Consulting Ltd., located at Beaver House C/o Critchleys LLP, 23-38 Hythe Bridge Street, Oxford OX1 2EP, United Kingdom
+Last Update: March 2025
+Join our newsletter for all the latest updates
+Email
+Submit
+
+Home
+How It Works
+Fertility Q&A
+Blog
+FAQ
+Reviews & Press
+About us
+Contact Us
+Terms of use
+Privacy policy
+Become an affiliate
+Collaborate with us
+Shipping, Returns & Warranty
+Resources & Guides
+Instructions for Use - Tempdrop 2.0 Model
+Instructions for Use - Original Model
+Order Tempdrop
+Armbands & Accessories
+Add Insurance

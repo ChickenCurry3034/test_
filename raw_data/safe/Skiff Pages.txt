@@ -1,0 +1,47 @@
+Product
+Resources
+Transparency
+Data privacy at a glance
+Skiff values your privacy and keeps your data secure. We do not track your login sessions, device identifiers, or the IP addresses you use when logging in. Unlike all mainstream email providers (Gmail, Outlook, Yahoo, Hotmail, and more), Skiff end-to-end encrypts your emails, files, calendar events, and more.
+End-to-End Encrypted Data
+Email content
+Email subjects
+Document content
+File content
+Document & file titles
+Folder titles
+File types
+Calendar event titles
+Calendar external recipients
+Calendar event notes & locations
+Contact birthday, notes, phone, and more
+Email signature
+And more...
+Visible data to us
+Email alias
+Backup email address
+Time and dates of sent emails
+Security audits
+We regularly undergo security audits. See a comprehensive list below of the audits we have completed.
+Auditor	Date
+Cure53	Dec 2023
+Trail of Bits	July 2022
+Trail of Bits	Feb 2022
+Tom Ritter (Security Consultant)	Jan 2021
+Skiff Logo
+© 2024. All rights reserved.
+Products
+Mail
+Pages
+Drive
+Calendar
+Resources
+Changelog
+Developer
+GitHub
+Whitepaper
+Report an issue
+Legal
+Privacy policy
+Terms of service
+Acceptable use policy

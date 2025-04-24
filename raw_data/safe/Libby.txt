@@ -1,0 +1,126 @@
+Privacy Statement
+OverDrive, the maker of Libby, is deeply committed to respecting the privacy of our users. OverDrive provides services, including Libby, on behalf of libraries.
+
+In this statement we describe the privacy practices of the Libby app. This statement supplements OverDriveʼs privacy policy.
+
+Our commitments to you
+1.1.	
+We will provide notice and — where appropriate — request your consent before we collect, maintain, use, or share your personally identifiable information (PII).
+
+1.2.	
+We will not sell your PII. You donʼt need to make a special request; Libby just does not do this.
+
+1.3.	
+We will not use or disclose your PII for third-party advertising. We do not sell ad-space in Libby to advertisers.
+
+1.4.	
+We maintain a comprehensive security program that is reasonably designed to protect the security, privacy, confidentiality, and integrity of your information.
+
+Illustration: 3 people holding Libby masks in front of their faces, so that they appear unidentifiable.
+Guiding principles
+2.1.	
+Data minimization
+2.1.1.	
+We will only collect data that is necessary to make Libby available to you and for reasonable security, maintenance, and improvement of our services.
+
+2.1.2.	
+User PII is required in the operation of our services, for certain features to perform as requested or expected, and whenever you opt-in to sharing it with us. The categories of data we use, how we use them, and the reasons for doing so include:
+
+IP address
+IP addresses help us protect our services from abuse and enforce content access permissions.
+Email address
+Your email address is not required to use Libby. You may be prompted to enter your email address in optional situations like: a) choosing to receive your notifications via email; b) signing up for an instant digital library card (IDC) with your email address, at participating libraries. Additional information about IDC is available in OverDriveʼs privacy policy.
+User-generated content
+Any field where text can be entered (such as tag names and descriptions, notes on highlights, or library card names) may contain user-generated information — do not put PII there and we will not have it.
+Library credentials
+What Libby needs for you to access your libraryʼs digital collection, e.g. authentication data, depends on your libraryʼs policy — we do not set it. Authentication data may include: your library card number, PIN or password, card expiry date, content access rights, or other information that the library partner institution chooses.
+Borrowing history
+You, your library, and we can see your history of borrowed titles. We do not sell or share your borrowing history.
+Reading data
+We store reading activity (progress, bookmarks, highlights, and notes) to provide our service to you, including the synchronization of this data between your devices.
+Geolocation
+You may choose to find local libraries based on your deviceʼs location data. This is optional and for your convenience. We do not need this information to provide the Libby service. You may search for your library by name, city, or zip instead.
+2.1.3.	
+Among the categories of data that we do not collect are:
+
+Credit card information
+We do not charge users for Libby (thank your library!), and we do not ask you for your credit or debit card details, payment methods, or any other financial information for any reason.
+Sensitive information
+We do not need data considered “sensitive” such as biometrics, medical data, genetic information, ethnicity, or religious or political affiliations.
+Illustration: an archaeologist with long hair unearthing books and a library card.
+2.2.	
+Purpose limitation
+2.2.1.	
+We only use data to support, improve, and enhance our services.
+
+2.2.2.	
+We use data to do things like:
+
+Make Libby and all of its features work well for you
+Process, validate, and verify access to Libby and related services
+Send you email and other notifications when you opt-in to receive them
+Enhance security and detect fraud or abuse
+Report to libraries about usage of the services
+Analyze anonymous usage information in aggregate in order to secure, enable, and improve our services
+Illustration: an archaeologist in a hat, digging up a large Libby sculpture.
+2.3.	
+Integrations
+2.3.1.	
+Cookies
+Libby does not use third-party cookies. Libby only uses cookies that are necessary for delivering a high-quality service to you, like managing user rights to access content, setting your preferences for font-size or playback speed, and similar. See OverDriveʼs Cookie Policy for details on all of our services.
+2.3.2.	
+Third-party content links
+Libby may present links to approved third-party content platforms as additional resources from the userʼs library. An example is the “Extras” feature, displayed in the app at participating libraries.
+2.3.3.	
+Links in reading material
+Ebooks and audiobooks may contain direct hyperlinks or other types of referrals to online resources, such as a publisherʼs website. These links are not subject to our control or oversight.
+2.3.4.	
+Social media sharing
+Libby does not integrate with any social media services or sites. Libby provides share buttons with which users can obtain a public Libby URL linking to a title, a list of titles, or similar content. These shareable URLs do not include user identifiers for tracking.
+Illustration: someone holding book-sized books, surrounded by human-sized books and Libby tags.
+2.4.	
+Security
+We engage in the following security practices:
+
+2.4.1.	
+We encrypt data at rest and in transit.
+
+2.4.2.	
+We have a dedicated security team.
+
+2.4.3.	
+A firewall is in place on our servers.
+
+2.4.4.	
+We commission independent audits to verify that our security practices meet or exceed industry standards.
+
+2.4.5.	
+We maintain anti-intrusion software to actively monitor systems.
+
+2.4.6.	
+Our services are maintained consistently with the OverDrive Security Statement.
+
+Illustration: two people examining a map and discussing their (reading) journey.
+How to delete your data
+3.1.	
+Within the app, you can delete certain data via Menu > Reset Everything.
+
+3.2.	
+You can delete your PII across all OverDrive services and systems at our User Privacy Portal. We may ask you to verify your identity through a technological challenge to make sure you are who you say you are.
+
+Applicability
+4.1.	
+By using Libby, you acknowledge the practices and policies outlined in both this Libby privacy statement and the OverDrive privacy policy. OverDriveʼs privacy policy is broadly applicable to all of its services, including Libby. Where there are differences, the commitments in this Libby privacy statement control regarding your use of Libby, and do not apply to other OverDrive services. Any terms that are not defined in the Libby privacy statement shall be interpreted as in the OverDrive privacy policy.
+
+4.2.	
+Translations of this document from English are provided in good faith to increase access to this information. Where any translation introduces inconsistency or a divergence in meaning, the English language document shall control.
+
+Contact us
+5.1.	
+You may contact our Technical Support team from within the Libby app via Menu > Help & Support.
+
+OverDrive, Inc. is a certified B Corporation.
+
+November 21, 2024
+
+Illustration: the large Libby sculpture, previously discovered in the dirt, now sparkling on a pedestal. Someone has stuck a large black mustache to it, so that it seems to be in disguise.

@@ -1,0 +1,315 @@
+Create images and get tailored answers based on your interests and needs anytime, anywhere
+Take the power of Copilot on the go with the free mobile app
+Create images and get tailored answers based on your interests and needs anytime, anywhere
+No, thanks
+Get the Copilot app
+Skip to main content
+Microsoft
+Pulse
+Transform Work & Productivity Sustainable futures More
+All Microsoft
+
+a person sitting at a table using a laptop
+Work & Productivity
+Working secure
+Our commitment to privacy and security in Microsoft Teams
+Johanna Winqvist
+Johanna Winqvist
+
+Microsoft, Modern Workplace
+
+Read Time, 5 min.5 min.
+
+Now more than ever, video conferencing has become a huge part of our daily life and work. My team and I at Microsoft have adjusted to the new reality of seeing each other’s homes, complete with dogs, cats and other family members. Everyone around the world is now working, learning, and connecting with colleagues, friends and family through the power of technology. From kitchen tables to living room couches, and from home offices doubling as home schools – people are relying on Microsoft Teams to work and learn.
+
+Businesses large and small are depending on Teams for mission-critical work. First responders are using Teams to communicate when lives depend on it. Governments are turning to Teams to move medical supplies to where they are needed most. Doctors and nurses are using it to consult with patients, and researchers are collaborating on it across continents to find a vaccine. And teachers are using Teams to teach students in entirely new ways. Important moments of human connection, achievement and celebration have all moved online.
+
+Now more than ever, people need to know that their virtual conversations are private and secure. At Microsoft, privacy and security are never an afterthought. It’s our commitment to you – not only during this challenging time – but always. Here’s how we’re working to earn your trust every day with Microsoft Teams.
+
+We provide privacy and security controls for video conferences in Teams
+We offer a variety of privacy and security controls to allow you to manage who participates in your meetings and who has access to meeting information.
+
+For example, you decide who from outside your organization can join your meetings directly, and who should wait in the lobby for someone to let them in. You can also remove participants during a meeting, designate “presenters” and “attendees,” and control which meeting participants can present content. And, with guest access, you can add people from outside your organization but still retain control over your data. Moderation allows you to control who is and isn’t allowed to post and share content. And advanced artificial intelligence (AI) monitors chats to help prevent negative behaviors like bullying and harassment.
+
+When recording a meeting, all participants are notified when a recording starts, and online participants can access our privacy notice directly. Recordings are only available to the people on the call or people invited to the meeting. And recordings are stored in a controlled repository that is protected by permissions and encryption.
+
+We safeguard your privacy by design
+When you use Microsoft Teams, you are entrusting us with one of your most valuable assets – your data and personal information. Our approach to privacy is grounded in our commitment to giving you transparency over the collection, use and distribution of your data. Far from an afterthought, privacy is deeply ingrained in our company philosophy and how we build products.
+
+Here are our privacy commitments to you.
+
+We never use your Teams data to serve you ads
+We do not track participant attention or multi-tasking in Teams meetings
+Your data is deleted after the termination or expiration of your subscription
+We take strong measures to ensure access to your data is restricted and carefully define requirements for responding to government requests for data
+You can access your own customer data at any time and for any reason
+We offer regular transparency reports on the Transparency Hub, detailing how we have responded to third-party requests for data
+We protect your identity and account information
+Multi-factor authentication (MFA), a feature turned on by your IT administrator, protects your username and password by requiring you to provide a second form of verification to prove your identity. This simple, two-step verification process is widely used in many consumer applications today, including banking, and protects you from attacks that take advantage of weak or stolen passwords.
+
+We protect your data and defend against cybersecurity threats
+Microsoft processes more than 8 trillion security signals every day and uses them to proactively protect you from security threats. In Teams, we encrypt data in transit and at rest, storing your data in our secure network of datacenters and using Secure Real-time Transport Protocol (SRTP) for video, audio and desktop sharing.
+
+We meet more than 90 regulatory and industry standards
+To comply with global, national, regional, and industry-specific regulations, Teams supports more than 90 regulatory standards and laws, including HIPAA, GDPR, FedRAMP, SOC, and Family Educational Rights and Privacy Act (FERPA) for the security of students and children.
+
+For more information on the features we’ve built to deliver on these promises, see our detailed post on privacy and security in Microsoft Teams or refer to our Teams product documentation. And to learn more about our approach to security, compliance, and privacy across all our products, including Teams, visit the Microsoft Trust Center.
+
+No matter how you’re using Teams at this extraordinary time to connect with the people that matter most to you for work and in life, we’re committed to continuing to learn and get better each day as we work to help you keep all your conversations private and secure.
+
+Enable remote working with Zero Trust security
+Bolstering security is crucial as your staff increasingly work from home. So it’s important to understand ‘Zero Trust’ security and what you can do to build your cloud security strategy around it.
+
+With a Zero Trust model, instead of assuming everything behind your corporate firewall is safe, you assume breach and verify each request as though it originates from an open network. Regardless of where the request originates or what resource it accesses, Zero Trust teaches you to ‘never trust, always verify.’
+
+Click here to find out more about Zero Trust security.
+
+Share this post
+Related
+A woman working with a laptop
+Addressing the cyber threat landscape in Europe calls for a mix of technology, skills and partnerships
+
+Five ways your business can stay safe – and succeed
+
+How boards can enable trust, security and compliance in the digital enterprise: all you need to know
+
+Enable multi-factor authentication for free
+Get started
+
+Dossier
+Security & Privacy
+Enable multi-factor authentication for free
+Help secure your organization with just one step
+
+ Get started
+Articles you may be interested in:
+A woman working with a laptop
+Read more Addressing the cyber threat landscape in Europe calls for a mix of technology, skills and partnerships
+Working secure
+Read Time, 3 min.
+3 min.
+Addressing the cyber threat landscape in Europe calls for a mix of technology, skills and partnerships
+Keeping ahead of an evolving threat landscape is not simply an IT department issue. Security has become a core business priority in a data-first world. Research suggests that in about two years businesses that successfully take a data-led approach will generate more than 25% of revenue from digital products and services. At the same time, […]
+
+Joacim Damgard
+Joacim Damgard
+
+President, Microsoft Western Europe
+
+Five ways your business can stay safe – and succeed
+Read more Five ways your business can stay safe – and succeed
+Working secure
+Five ways your business can stay safe – and succeed
+Get the actionable guide to business success and security.
+
+Johanna Winqvist
+Johanna Winqvist
+
+Microsoft, Modern Workplace
+
+How boards can enable trust, security and compliance in the digital enterprise: all you need to know
+Read more How boards can enable trust, security and compliance in the digital enterprise: all you need to know
+Working secure
+Read Time, 3 min.
+3 min.
+How boards can enable trust, security and compliance in the digital enterprise: all you need to know
+In a world where data and technology and are dramatically reshaping business models, trust is more than ever determining companies’ success. However, many Board members and leaders are only just starting to recognize it – and often lack a clear strategy to enable it. Commissioned by Microsoft and developed by EY, our eBook is all […]
+
+Johanna Winqvist
+Johanna Winqvist
+
+Microsoft, Modern Workplace
+
+Discover more related articles per industry:
+Education
+Pencil
+Read more Hybrid learning and GDPR: maintaining security and compliance in disruptive times
+Working secure
+Read Time, 4 min.
+4 min.
+Hybrid learning and GDPR: maintaining security and compliance in disruptive times
+Like most areas of society, over the past six months the education sector has had to face challenges unlike any before. Students thrive when they have access to personalized learning. As schools have moved quickly to adapt to remote learning, using technology to create new experiences that meet students’ needs has become more important than […]
+
+a woman looking at a computer
+Read more How Griftland College is putting technology at the heart of remote learning
+Working from everywhere
+Read Time, 4 min.
+4 min.
+How Griftland College is putting technology at the heart of remote learning
+“When COVID-19 was on the verge of breaking out, we had to make a choice about how to go further,” says Kees Versteeg, the principle of Griftland College. The secondary school, located in the Dutch town of Soest, was one of the first in the Netherlands to close and start teaching 100% remotely. He describes […]
+
+More articles on education >
+Government
+a group of people standing next to a dog
+Read more Belgian police force completes secure, mobile-first transformation
+Working from everywhere
+Read Time, 1 min.
+1 min.
+Belgian police force completes secure, mobile-first transformation
+Information sharing is now much easier for officers and support staff – thanks to Microsoft Teams on a powerful and secure digital platform.
+
+Iceland runs on Trust
+Read more How the cloud helped a small nation realise big ambitions
+Working secure
+Read Time, 1 min.
+1 min.
+How the cloud helped a small nation realise big ambitions
+In December 2015, the Icelandic government kicked off a digital infrastructure review. With more than 100 different suppliers managed by over 100 IT managers in each public institution, the brief was clear; to simplify operations and streamline IT for over 20,000 users. The solution: Fast forward two and a half years, and a decision was […]
+
+More articles on government >
+Healthcare
+a woman sitting at a table
+Read more Empowering care teams with new tools in Microsoft 365
+Digital culture
+Read Time, 1 min.
+1 min.
+Empowering care teams with new tools in Microsoft 365
+Discover the new Microsoft 365 collaboration and communication capabilities – improving the efficiency of clinicians and administrators.
+
+a person preparing food in a kitchen
+Read more Humanitas-DMH: empowering key workers with a secure digital support
+Working from everywhere
+Read Time, 5 min.
+5 min.
+Humanitas-DMH: empowering key workers with a secure digital support
+“Our goal is to create an environment where people with mental disabilities can feel safe, secure and happy.” Marcella van Kraaij, Digital Transformation Advisor at Dutch healthcare provider Humanitas-DMH, is discussing her organization’s key objectives – and how the technology her team recently adopted is helping it to achieve them. Every day, the carers and […]
+
+More articles on healthcare >
+Manufacturing
+Mais on a sunny day
+Read more COFCO International: How cloud technologies ensured business continuity during challenging times
+Working from everywhere
+Read Time, 6 min.
+6 min.
+COFCO International: How cloud technologies ensured business continuity during challenging times
+“I have worked at COFCO for 12 years, always in an office. But I have spent the last 63 days working from home.” Marcus Seelbach, Chief HR Officer at global agribusiness COFCO International, is talking from his home via video call about the transition he and all his colleagues have undergone since COVID-19 led to the closure of the company’s offices worldwide. “But thanks to the preparation and […]
+
+a woman smiling for the camera
+Read more Etex Group: Future-proofing employees to work anywhere across the world
+Working from everywhere
+Read Time, 5 min.
+5 min.
+Etex Group: Future-proofing employees to work anywhere across the world
+When COVID-19 spread across Europe in early 2020, businesses entered a new digitally-dependent age. Social distancing measures had asked offices of all shapes and sizes to close their doors, sparking organizations to quickly find other virtual ways for colleagues to meet and collaborate remotely. But for Belgium building material specialist Etex, this was a step they were ready for – having already implemented a cloud-based infrastructure and collaboration tools […]
+
+More articles on manufacturing >
+Retail
+Picture from the back of a person attending a Teams meeting with 2 colleagues, discussing about a furniture fabric.
+Read more Zuiver: Supporting both business and culture through technology
+Working from everywhere
+Read Time, 5 min.
+5 min.
+Zuiver: Supporting both business and culture through technology
+“Since moving to the cloud, there are no limitations anymore. And I’m certain without this technology, we would not have seen the growth we have today.” Jaap Landsaat, CFO and Head of IT at Dutch furniture designer Zuiver, is talking about the profound impact technology has had on the business he co-founded more than 20 years ago. “Back then, we had 100 orders a week […]
+
+HeadBrands is ready for the future with Microsoft 365 Business
+Read more HeadBrands is ready for the future with Microsoft 365 Business
+Working secure
+Read Time, 1 min.
+1 min.
+HeadBrands is ready for the future with Microsoft 365 Business
+Since its creation in 2010, HeadBrands has continued to grow, rapidly becoming the leading retailer of hairdressing products in Scandinavia. HeadBrands needed a modern IT solution to increase its business productivity and improve collaboration, both within the company and externally. Its response to this challenge was to replace most of its previous services with Microsoft […]
+
+More articles on retail >
+Discover more related articles per dossier:
+Customer Stories
+Two female nurses having a virtual conversation through Microsoft Teams
+Read more Belfast Trust: Reimagining patient care
+Working from everywhere
+Read Time, 5 min.
+5 min.
+Belfast Trust: Reimagining patient care
+“There have been many heroic actions by our staff but we’re not heroes for what we’ve done – I’m just glad we could do our bit to help.” Paul Duffy, Co-Director of IT and Telecommunications at Belfast Trust, is talking about the monumental impact COVID-19 has had on the healthcare sector and how virtual consultations […]
+
+More articles on customer stories >
+Digital Transformation
+a man and two women standing in front of a brick building
+Read more Ajuntament de Lleida: transforming the public sector with a modern, virtual workplace
+Working from everywhere
+Read Time, 6 min.
+6 min.
+Ajuntament de Lleida: transforming the public sector with a modern, virtual workplace
+“At Ajuntament de Lleida, we think differently. We embrace new technology. And when we see that it could add real value to the work we do, we find a way to make it happen.” Carles GinéSabaté, Systems Implementation Planning Manager at Ajuntament de Lleida, is reflecting on his organization’s open-armed approach to digital transformation and […]
+
+More articles on digital transformation >
+Security & Privacy
+The 6 most common security nightmares for businesses
+Read more The 6 most common security nightmares for businesses
+Working secure
+Read Time, 1 min.
+1 min.
+The 6 most common security nightmares for businesses
+Employees and businesses need to be able to work better together, wherever they are, and they need to do so securely. Even when new threats come along. Discover the most common security nightmares for businesses.
+
+More articles on security & privacy >
+Tips
+a person looking at a laptop
+Read more Make remote learning effective and engaged with Microsoft Education resources
+Working from everywhere
+Read Time, 1 min.
+1 min.
+Make remote learning effective and engaged with Microsoft Education resources
+Not sure where to find the best online education resources? This article provides some excellent tips and points you in the right direction.
+
+More articles on tips >
+What's new
+Surface Pro
+Surface Laptop
+Surface Laptop Studio 2
+Surface Laptop Go 3
+Microsoft Copilot
+AI in Windows
+Explore Microsoft products
+Windows 11 apps
+Microsoft Store
+Account profile
+Download Center
+Microsoft Store support
+Returns
+Order tracking
+Certified Refurbished
+Microsoft Store Promise
+Flexible Payments
+Education
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+How to buy for your school
+Educator training and development
+Deals for students and parents
+Azure for students
+Business
+Microsoft Cloud
+Microsoft Security
+Dynamics 365
+Microsoft 365
+Microsoft Power Platform
+Microsoft Teams
+Microsoft 365 Copilot
+Small Business
+Developer & IT
+Azure
+Microsoft Developer
+Microsoft Learn
+Support for AI marketplace apps
+Microsoft Tech Community
+Azure Marketplace
+AppSource
+Visual Studio
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Sustainability
+English (United States)
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap Contact Microsoft Privacy Terms of use Trademarks Safety & eco Recycling About our ads © Microsoft 2025
+Please confirm your language
+Choose another language
+English - Western Europe

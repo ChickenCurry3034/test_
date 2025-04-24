@@ -1,0 +1,225 @@
+Sign Up
+Log In
+Privacy Policy
+Your personal privacy and the privacy of your data are paramount to us at Sgrouples, Inc., d/b/a MeWe, and MeWe subsidiaries and affiliates (collectively, “we”, “our”, or “MeWe”). We have prepared this Privacy Policy to clearly explain our practices relating to your Personal Data (as defined below).
+
+PRIVACY BILL OF RIGHTS
+
+We are uncompromising about trust, respect and integrity and process your Personal Data in accordance with the following principles: 
+
+You own your Personal Data & content. It is explicitly not ours.
+
+You never receive targeted third-party advertisements or targeted third-party content. We think that's creepy.
+
+You have full control over your newsfeed and the order of how posts appear.
+
+We do not manipulate, filter, or change the order of your newsfeeds. Only you can do that.
+
+Privacy permissions are your rights. You control them.
+
+You control who can access your content.
+
+You can opt out of our member directory to protect your privacy.
+
+We do not sell your Personal Data to anyone.
+
+Your face is your business. We do not use facial recognition technology.
+
+You have the right to delete your account and take your content with you at any time.
+
+Collection of Your Personal Data
+
+The types of Personal Data we collect about you depend on how you interact with us. “Personal Data” refers to data that identifies, relates to, describes, or can be associated with you. The following are categories and specific types of Personal Data we may collect about you:
+
+Contact and General Information, including name, age, gender, email address, postal address, phone number, username, or other similar identifiers.
+
+Device Information and Other Unique Identifiers, device identifier, internet protocol (IP) address, or similar unique identifiers.
+
+Internet or Other Network Activity, including browsing or search history, and information regarding your interactions with our websites, mobile applications, emails, or advertisements.
+
+Geolocation Data, including information that permits us to determine your location, such as if you manually provide location information or enable your mobile device to send us precise location information.
+
+Payment Information, including credit or debit card number, or other financial information. 
+
+User Content, including your communications with us and any other content you provide through the use of our services (such as social media profiles, photographs, images, videos, survey responses, comments, testimonials, and other content).
+
+Inferences, inferences drawn from or created based on any of the information identified in this section, including User Content.
+
+Special Personal Data (where permitted and in accordance with applicable law), such as racial or ethnic origin, religious affiliation, and/or health information also qualify as special Personal Data, if and to the extent that you voluntarily provide this information.
+
+How We Collect Your Personal Data
+
+We collect your Personal Data in the following ways, as permissible under applicable law: 
+
+Directly From You, when you purchase our services, register for an account or create a profile, contact us, or sign up to receive emails, text messages, and/or postal mailings. 
+
+Through Our Use of Cookies and Other Automatic Data Collection Technologies, when you visit our websites, use our mobile applications, open or click on emails we send you, or interact with our advertisements. We or third parties we work with automatically collect certain information using technologies such as cookies, web beacons, clear GIF, pixels, internet tags, web server logs, and other data collection tools. For more information, please see “Cookies and Similar Tracking Technologies” section below.
+
+From Our ThirdParty Partners, including from third parties that we have partnered with to provide you the services that you have requested from us.  
+
+Other Sources, including data analytics provider or publicly available sources.
+
+Purpose of Processing Your Personal Data
+
+MeWe uses and processes Personal Data, including special Personal Data, to provide you with services you request from us, including using and processing Personal Data for the following purposes:
+
+We may use your Personal Data to provide you with the services that you requested. This means that we may use your Personal Data to respond to your questions, provide you with requested services and/or notify you when we think you may be interested in certain services, to perform our obligations to you, or to perform other actions based on your consent. 
+
+We may use your Personal Data for everyday business purposes, such as account management, contract management, website administration, corporate governance, and reporting obligations. 
+
+We may use your Personal Data to respond and address feedback you provide us or if you contact us for support.
+
+We may use your Personal Data to analyze your needs and help improve, develop, and evaluate the services. 
+
+We may use your Personal Data to comply with laws and regulations and legal processes. 
+
+We may use your Personal Data to monitor compliance with our policies and procedures, for fraud prevention, to detect and address illegal activities and/or to protect MeWe and its employees, users and property.
+
+We may use your Personal Data for customer relationship management and administration.
+
+We may use the online identifiers and device information collected through the services for analytics purposes and for improving the functionality of our services. This information may also be used for administrative purposes including, without limitation, to troubleshoot and resolve problems with the services. We may rely on third-party partners to collect and analyze the online identifiers and device information.
+
+Legal Basis of Processing Your Personal Data
+
+We process your information for the purposes described in this Privacy Policy, based on the following legal grounds:
+
+With Your Consent: In certain instances, we ask for your consent to process your Personal Data for specific purposes. Provision of your consent is voluntary, and you have the right to withdraw your consent at any time.
+
+When Pursuing Legitimate Interests: We process your Personal Data for our legitimate interests and those of third parties, while applying appropriate safeguards that protect your privacy, and as further described in this Privacy Policy.     
+
+To Perform a Contract With You: We will process your Personal Data when processing of your Personal Data is necessary for the execution or performance of a contract with you.
+
+When We Have Legal Obligations: We will process your Personal Data when we have a legal obligation to do so, for example, if we are responding to a legal process or an enforceable government request, including law enforcement.
+
+Provision of your Personal Data is both a contractual and statutory obligation.
+
+Disclosure of Your Personal Data
+
+We may disclose Personal Data to third parties for our business and commercial purposes in the following ways: 
+
+Other MeWe Entities, such as our affiliated, or subsidiary entities for the purpose of providing you with our services. 
+
+Service Providers and Third Party Vendors We use third-party service providers to help operate MeWe services, such as with hosting and to protect our users. We may disclose your information to these service providers on the condition that they use your private Personal Data only on our behalf and consistent with this Privacy Policy. If you make payments on MeWe, we may share your payment information with third-party payment service providers to process payments; prevent, detect, and investigate fraud or other prohibited activities; facilitate dispute resolution such as chargebacks or refunds; and for other purposes associated with the acceptance of credit and debit cards.
+
+To Law Enforcement of Other Third Parties to Comply with Legal Obligations, such as to satisfy applicable laws or regulations, or in response to legal process or enforceable government requests. We may also disclose your Personal Data if disclosure is reasonably necessary to detect, prevent, or otherwise address fraud, security or technical issues or to protect the rights, property or safety of MeWe, our users, or as otherwise required or permitted by law. 
+
+Other Disclosures, such as with your consent or as otherwise permissible by law. 
+
+Cookies and Other Tracking Technologies – Where and Why
+
+MeWe’s Use of Tracking Technology 
+
+We don’t track you to sell your data to third parties, and we don’t track you to manipulate your newsfeed and we don’t track you when you are not on MeWe. To ensure the safety and security of our users, we track how members use our site. We collect your log data, usage activity, email, phone number, cookie data, and device/network information, to verify accounts; combat harmful conduct; detect and prevent spam; and to maintain the integrity of MeWe.
+
+We may disclose and match your information against databases or with third parties bound by confidentiality who specialize in identifying trolls, bots, scammers, spammers, fake accounts, stalkers, or illegal activity. We may also use pattern tracking to identify and remove disruptive elements such as trolls, bots, scammers, spammers, fake accounts, stalkers, etc.
+
+We monitor how users use our site in general so that we can make it better. We are monitoring traffic, usage activity, feature popularity and site performance, and we use general analytic tools so that we can improve your experience.
+
+MeWe’s Use of Cookies and Related Tracking Technologies
+
+We use essential and analytics cookies on MeWe to make your experience better. We NEVER use cookies for third-parties to target you or market to you. 
+
+Essential cookies are cookies that the services need in order to function, and that enable you to move around and use the services and features. Without these essential cookies, the services will not perform as smoothly for you as we would like them to and we may not be able to provide the services or features you request. For example, cookies on MeWe let you log in and out of MeWe without needing to retype your login and password.
+
+Analytics cookies, alternatively, allow us to understand more about how visitors interact with our services. Although analytics cookies allow us to gather specific information about the pages that you visit and whether you have visited our services multiple times, we cannot use them to find out details such as your name or address. Analytics cookies on MeWe tell us how many people use a certain feature, how they use it and with what frequency, and whether people open an email we send. These cookies are also another way we protect you from security risks. We use cookies to remember your settings and preferences, like the language you prefer and your privacy settings. We use cookies or similar technologies to identify your log data. We use cookies to detect when someone might be trying to hack your MeWe account or spam the MeWe community.
+
+How to Opt-Out of the Use of Cookies and Related Tracking Technologies
+
+Most web browsers automatically accept cookies, but you can usually change your browser settings to prevent this. If you disable cookies, your ability to use some features of the services may be limited. For mobile devices, you may be able to manage certain cookies using your built-in mobile device settings and controls, or the settings within your mobile application, where applicable. Choices are browser- and/or device-specific. If you clear your cookies from your browser on any of your devices, your choices will need to be reset. You should check how to do this on your device(s) and operating systems.
+
+In addition, depending on your location and applicable laws, we may give you the option of adjusting your preferences with regard to the categories of cookies we use. When this option is available, you can configure your personal settings on our Cookies Banner under “Settings” or via other options that may be available on the relevant Service. If you use a different device to access the same services, you may need to manage your settings for each separate device you use.
+
+Do Not Track
+
+We do not use behavioral advertising cookies on our site to collect Personal Data about you. For that reason, we do not respond to "Do Not Track" settings or other related mechanisms, such as opt-out preference signals, at this time.
+
+Use of Log Data
+
+When you use our services, we may receive information (“Log Data”) such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, and device information (including device and application IDs). We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our services, interact with our email notifications, use your account to authenticate to a third-party website or application. We may also receive Log Data when you click on, view or interact with links on our services, including links to third-party applications, such as when you choose to install another application through MeWe. MeWe uses Log Data to provide, understand, and improve our Services. We either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after a maximum of 12 months.
+
+Message Disappearance
+
+You have the ability to send certain types of messages through our services that automatically disappear. If you send such disappearing messages through our services they will be automatically deleted once they have been viewed or have expired.
+
+But — and this is important — you should understand that users who see your messages can always save them, either by taking a screenshot or by using some other image-capture technology (whether that be software or even something as old-fashioned as a camera to take a photo of your device’s screen). The same common sense that applies to the Internet at large applies to MeWe as well: Don’t send messages that you wouldn’t want someone to save or share.
+
+In most cases, once we detect that all recipients have viewed a message, we automatically delete it from our servers. And again in most cases, the services are programmed to delete the message from the recipients’ device as well. There are, however, exceptions to this general rule:
+
+We can’t guarantee that messages will be deleted within a specific timeframe. And even after we’ve deleted message data from our servers, that same data may remain in backup for a limited period of time.
+
+We may receive requests from law enforcement requiring us by law to suspend our ordinary server-deletion practices for specific information.
+
+As with any digital information, there may be ways to access messages while still in temporary storage on recipients’ devices or, forensically, even after they are deleted.
+
+Use of the Frequency Access Services
+
+MeWe users have the opportunity to opt-in to the use of certain services offered by Frequency Access LLC (“Frequency Services”). The Frequency Services provide users with the ability to authenticate to, set permissions and interact with apps supported by the Frequency Services, including MeWe (“Supported Apps”) and networks supported by the Frequency Services (the “Supported Networks”) including the Frequency blockchain, a layer 1 blockchain integrated into the Polkadot platform (“Frequency Chain”). Through interaction with the Frequency Chain, you will be able to: (a) establish a message source account that allows you to set certain permissions and access functions (the “MSA”); (b) store the digital representation of your online relationships in the form of a social graph (the “Social Graph”); (c) establish a self-selected, human readable identifier used to identify the user’s MSA (“Handle”) and (d) interact with other Supported Apps on the Frequency Chain. If you opt in to use of the Frequency Services, you acknowledge and agree that the some of the information you provide or make available through the Frequency Services, including your Personal Data, may be written to the Supported Networks, including the Frequency Chain, and may be accessible to the public, potentially without the ability to fully delete that information.
+
+When connected to and engaging with the Frequency Services, you agree and understand that you are using a third party service. Like other third party services, the Frequency Services are separate from MeWe.  MeWe neither owns nor controls Frequency Labs LLC or the Frequency Services.  MeWe is not responsible or liable for the Frequency Services or for any damage or loss related to the Frequency Services or any information you make available to the Frequency Services or write to a blockchain through the Frequency Services. Your use of the Frequency Services is governed by the Frequency Access Privacy Policy and Terms of Use. You should read these documents before opting into or using the Frequency Services.
+
+Linking to Third Party Sites: These Are Your Decisions And Responsibilities
+
+As an optional convenience for you, MeWe offers you the opportunity to link to and/or connect to third party websites, advertisers, vendor products, services, etc., including and not limited to social network sites like Twitter. When you click-through, connect or link to these third party sites, products, services, etc., you are no longer protected by MeWe's Privacy Policy. If you share to any third party social site from MeWe, they will not be able to see back into your MeWe account. Your sharing of any YouTube content is covered by YouTube’s privacy policy, which can be found here: Google Privacy Policy. We encourage you to read the privacy policies of these third parties, as they differ from MeWe's privacy practices as set forth in this Privacy Policy. MeWe is not liable for wrongful use, loss, or disclosure of your personally-identifying information related to your use of any third party.
+
+Security and Retention
+
+We do our best to protect your Personal Data and be respectful of the law. We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of your Personal Data and other information transmitted to us. For example, we encrypt your Personal Data, and most, if not all requests from you to the server are created over a secure connection (HTTPS). However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. Therefore, we cannot guarantee the security of your Personal Data, and we recommend that you do not share your log-in credentials or other details that may compromise the security of your access to MeWe services.
+
+How long we retain your Personal Data depends on the context in which, and purpose for which, we collected it. We generally retain Personal Data for as long as necessary to achieve the purpose for which it was collected or processed, unless a different retention period is required by applicable law. 
+
+If you choose to publish and store your Personal Data on the Frequency Blockchain, that Personal Data may exist indefinitely on the Frequency Blockchain. 
+
+Transfers of Your Personal Data
+
+The recipients of Personal Data identified in this section may be located inside or outside the European Economic Area ("EEA") or the United Kingdom ("UK").  Recipients located outside the EEA or UK may be located in countries that do not offer an adequate level of data protection from an EEA or UK data protection law perspective. To the extent required by applicable law, MeWe will: (i) address applicable requirements to assure an adequate level of data protection before transferring Personal Data by assuring the execution of appropriate data transfer agreements or confirming other controls; and (ii) establish that Personal Data will be made available to individuals within the recipient entities on a need-to-know basis only for the relevant purposes described above.  MeWe may also disclose your Personal Data as required or permitted by applicable law to government authorities, courts, external advisors, and similar third parties. You can request a copy of the appropriate safeguards by contacting us as set out in the Questions section below.
+
+Children's Privacy
+
+Our services are not intended for use by minors under the age of 16. We do not knowingly collect Personal Data from children under the age of 16. If we become aware that we have inadvertently received Personal Data from a child under the age of 16, we will delete such information from our records. 
+
+Your Rights
+
+Depending on where you live, you may have certain rights with respect to your Personal Data. As noted above, if you choose to utilize the Frequency Blockchain option, then we will be unable to process requests relating to the rights below regarding any Personal Data published or stored on the Frequency Blockchain. For example, under local applicable laws, including the EEA and the UK, you may have the following rights:
+
+Right to rectification: You have the right to request that we correct or supplement any inaccurate or incomplete Personal Data we process about you.
+
+Right to erasure/deletion (i.e., right to be forgotten): You have the right to request that we delete your Personal Data. At all times you have an easy way to opt out of our service and delete your account as well as ALL of your Content Data (as defined in our Terms of Service), if you do not wish to continue using our services. You can find this in your “Settings” where it says “Delete My Account.” When you delete any of your Content Data, or delete your entire account, we delete your Content Data and remove your account from our production servers as soon as is technically possible based on our infrastructure design including a 30-day delay to insure the deletion request was made by you, etc. The more data you delete, the longer will the deletion process take due to load balancing protections on our servers. After we’ve deleted your Content Data from our production servers, that same data may remain in our backups for a limited period of time (maximum of 7 months) due to protection regulations and our protocols for backup content protection. We secure your data that temporarily remains on our backups with additional security protocols. If we ever need to restore our backups into the main servers of MeWe (in a rare instance, for example recovering from a natural disaster), if any of your Content Data you have previously deleted from our main servers is still on our backups in that moment, it will be deleted prior to or right after the backups are moved to the main servers. If you own a group and delete your account, the content you posted to that group will be deleted; however, the group(s) you own will not be deleted unless you are the only member of that group. You may also contact us to exercise this right. 
+
+Right of access: You have the right to know whether your Personal Data is being processed, and, where that is the case, to request access to, including a copy of, the Personal Data undergoing processing. 
+
+Right to data portability: At any time you can retrieve your Personal Data from MeWe using the “Download Your Content” feature in your account. When you select this feature, you will be able to download your Personal Data to your personal device and decide how to migrate that data anywhere you choose. In certain circumstances, you also have the right to request that we provide the Personal Data which you provided to us in a structured, commonly used and machine-readable format, and you have the right to transmit such Personal Data to another entity. 
+
+Right to withdraw your consent: Where our processing is based on your consent, you have the right to withdraw such consent at any time. However, you may not be able to use the service or feature for which you are withdrawing your consent. Withdrawing your consent will not affect the lawfulness of the processing we conducted prior to your withdrawal.
+
+Right to restriction of processing: You have the right to request that we restrict the processing of your Personal Data in certain cases.
+
+Right to object: In certain circumstances, you have the right to object to our processing of your Personal Data.
+
+If you choose to assert any of these rights under applicable laws, we will respond within the time period prescribed by applicable law. Please note that many of the above rights are subject to exceptions and limitations. If we are not able to provide the requested information or make the change you requested, you will be provided with the reasons for such decisions. Under local law, you may be entitled to lodge a complaint with your local supervisory authority.
+
+To inquire about your privacy rights, please submit your privacy requests or inquiries by emailing us at privacy@mewe.com.
+
+Your rights and our responses will vary based on your state or country of residency. Please note that you may be located in a jurisdiction where we are not obligated, or are unable, to fulfill a request. In such a case, your request may not be fulfilled.
+
+Notifications: We’d Like To Keep You Up To Date
+
+If you are a registered user of MeWe you may receive notifications and updates while using our service. Additionally, if you have supplied your email address, MeWe may want to tell you about new features, solicit your feedback, and keep you up to date about the privacy and integrity issues we care most about and how our company is working to support them. You can opt-out of these email notifications by following the instructions within the email.
+
+Privacy Policy Changes: Immediate Notification & Easy Opt Out
+
+If MeWe materially changes this Privacy Policy, we will notify you with a link to the changes so you can review and understand them, and provide you with an easy way to opt out of our service and delete your account if you wish.
+
+Contact Us
+
+If you have any questions or concerns about our privacy practices relating to your Personal Data, or would like to submit a request related to your Personal Data, please let us know by contacting us at privacy@mewe.com. 
+
+Effective: May 16, 2023
+
+Get the app.
+
+English
+FAQ
+About
+Terms
+Privacy
+© 2025 Sgrouples Inc.

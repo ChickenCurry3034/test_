@@ -1,0 +1,130 @@
+腾讯广告
+Tencent Ad Network
+
+Privacy Policy
+
+Last updated: 28 August 2023
+
+Thank you for using the Tencent Ad Network (the “Platform”). We respect your privacy and appreciate your trust and confidence in us.
+
+Please note this Privacy Policy only applies to how we collect, use and share information of our Partners’ end users (“End Users” or “you”) through our Platform and Services. If you have questions about the other products or services, please refer to the specific privacy policy for that applicable product or service.
+This privacy policy (“Privacy Policy”) explains the when, how and why when it comes to processing of personal information through our Services, and sets out your choices and rights in relation to that information. Please read this carefully – it is very important for you to understand how we collect and use your information, and how you can manage it.
+
+We work with third parties such as advertisers, advertising platforms, publishers, attribution, analytics and metrics service providers ("Partners”) to provide advertising services to you. We are not responsible for the privacy practices of these Partners or their affiliates. Partners are required to disclose to you any data collection, sharing and usage that takes place on their site, app or other property as a consequence of their use of any of our Services. Please also refer to the Partners’ respective privacy policies on how they collect, manage, use or otherwise process personal data.
+
+1. Who Are We and What Is The Tencent Ad Network?
+Morespark Limited (“we”, “us” or “our”) has developed and operates the Platform.
+
+The Platform is an online advertising network that connects advertisers (which can be companies or individuals) (“Advertisers”) who are seeking to promote their products and services, with publishers (including operators, owners or developers of websites or applications) (“Publishers”) that will host advertisements, allowing Publishers to show advertisements on their sites and apps and allowing Advertisers to reach their target audiences (“Services”).
+
+As such, we provide the Platform and our Services to our Partners (such as Advertisers and Publishers), and we do not have any direct engagement with End Users.
+
+2. The Types of Personal Information Processed
+This section describes the different types of personal information (or personal data) we handle and process.
+
+When you download, sign in to, access, interact with or use a particular app or website by Partners (which implement our Tencent Ad Network technology (such as our SDKs or APIs) or otherwise interacts with our Services) (“App”), we collect certain information about you and your device (via the relevant Partner). The information collected by us will depend on functionality of the App and the preferences that you have selected when interacting with this App.
+
+This information can include the following:
+
+Location Information - network IP address, country or coarse geographical information (GPS data is not collected), locale settings
+Online Identifiers - instance IDs (which, if collected, will only be cached temporarily on the Platform), App ID of installed application
+Advertising identifiers - Apple IDFA, Android Ad ID/GAID, IDFV (please note that we will not process such information if you turn off tracking functions)
+Device and browser information - Device name, device make and model, device manufacturer, operating system and version, screen size, orientation, browser information, cookie information, language preferences, timezone settings, phone physical memory, total memory size, disk size, available disk space, system boot time, system file time, device initiation time, whether using a cracked system
+Connectivity information - network operator, network type (wifi/cellular), mobile network information
+Preferences - Advertising and tracking preferences
+Aggregated metrics - such as number of clicks on ads, ads served, ads viewed, number of times the ad was seen, total number of daily or monthly active users who interacted with the ads
+3. How and Why We Use Your Personal Information
+We process your information for the following purposes, and based on the corresponding legal basis (where applicable):
+
+Where it is necessary for the performance of a contract with Partners, to provide the Services. This includes processing information to:
+allow publishers who have inventory to offer to display ads;
+facilitate the bids from advertisers who want to display ads;
+work with ad analytics and metrics providers to track ad views, clicks on ads, conversions on behalf of Partners, as well as to facilitate the reconciliation and billing for both advertisers and publishers; and
+perform frequency capping so as to prevent End Users from seeing the same advertisements too often.
+For our legitimate interests. This includes processing information:
+for ad fraud detection, botting, false clicks or activity, and to identify anomalous behaviour;
+to enforce our terms;
+for troubleshooting;
+to conduct our business and fulfil contractual commitments; and
+to improve the Services.
+Where required by law.
+Please note that the use of our Tencent Ad Network technologies on our Partners’ Apps are governed by their respective privacy policies, which can be accessed directly from their websites and/or mobile applications. We require them to provide you with complete and appropriate information and, to the extent required by law, to obtain your consent before any of your personal information is made available to us.
+
+4. How We Store and Share Your Personal Information
+We use Tencent Cloud servers located in Singapore and AWS servers located in the United States to provide information storage services for the Platform. End Users’ personal information (if obtained) are stored on these servers and will be processed by our web maintenance, operations and technical teams, which are located in Mainland China.
+
+For EEA/UK End Users, transfers between our affiliates and to third parties or Partners rely on appropriate safeguards, such as incorporating standard contractual clauses, obtaining your consent first or take into account adequacy assessments.
+
+Only where reasonably necessary will we share End Users’ personal information. Situations where this may occur include:
+
+Publishers and Advertisers who form part of the Platform who process your personal information.
+Ad Analytics Partners who provide insights into the performance of advertisements displayed in apps or websites. Advertisers connected to the Platform send data (including personal information) to the Ad Analytics Partners who analyse and send data (including personal information) back to the advertisers for billing and analytical purposes. Such data may be shared through the Platform.
+Third parties that support the Services, including service providers that provide technical infrastructure or storage services.
+Companies within our corporate group who process your personal information in order to provide the Services. All related group companies may only use your personal information in accordance with this Privacy Policy.
+Regulators, judicial authorities and law enforcement agencies. There are circumstances in which we may be legally required to disclose information about you, such as to comply with a legal obligation or processes. In complying with the terms of valid legal processes, such as a subpoena, or search warrant, we may not be able to seek your consent to or notify you in advance of such disclosure.
+Third parties to ensure safety, security, or compliance with laws. We may disclose We may also disclose your information to:
+enforce our terms and conditions and other agreements, including investigation of any potential violation thereof;
+detect, prevent or otherwise address security, fraud or technical issues; or
+protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
+A third party that acquires all or substantially all of us or our business. We may also disclose your information to third parties if we either: (a) sell, transfer, merge, consolidate or re-organise any part(s) of our business, or merge with, acquire or form a joint venture with, any other business, in which case we may disclose your data to any new owner or other third party involved in such change to our business; or (b) sell or transfer any of our assets, in which case the information we hold about you may be sold as part of those assets and may be transferred to any new owner or other third party involved in such sale or transfer.
+Note that Advertisers, Publishers and Ad Analytics Partners who access end users’ personal information will do so in accordance with their own privacy policies. You are encouraged to read these privacy policies to understand how they collect and process your personal information.
+
+5. The Security of Your Personal Information
+We are committed to maintaining the privacy and integrity of your personal information no matter where it is stored. We have information security and access policies that limit access to our systems and technology, and we protect data through the use of technological protection measures such as encryption.
+
+Unfortunately, although we have implemented and maintained reasonable measures to protect your personal information, the transmission of information via the internet is not completely secure. In the event of a security incident such as a personal data breach, we will initiate an emergency plan to prevent the magnification of the security incident, and will notify you via push notifications, announcements, etc.
+
+6. Data Retention
+We do not keep your data for longer than is necessary unless we are required to do so under law.
+
+Generally, we will retain your information for two years from the time of collection and automatically delete it thereafter.
+
+We may also retain aggregated data for longer than two (2) years. We will take reasonable steps to ensure such data is sufficiently aggregated and anonymized such that it no longer qualifies as personal information.
+
+If we are required to retain your information beyond the retention periods set out above, for example to comply with applicable laws, we will store it separately from other types of personal information.
+
+7. Your Rights and Managing Your Choices
+You may have certain rights regarding your personal information. Some of these only apply in certain circumstances (as set out in more detail below). If you would like further information in relation to these rights or would like to exercise any of them, please contact us at dataprotection@tencent.com or follow the below suggestions.
+
+a) Data held by us
+
+You have legal rights in relation to the personal information we hold about you (to the extent permitted under applicable laws and regulations). Where applicable, you may have the right to:
+
+request access and obtain a copy of your personal information that we store;
+request that your personal information is provided to you or another data controller in a commonly used, machine-readable format;
+request that your personal information that we hold is updated or corrected if it is inaccurate;
+request that your personal information (including your account) is deleted from our systems under certain circumstances;
+request that the processing of your personal information is restricted under certain circumstances (Art. 18 GDPR).
+To exercise any of your rights, please contact us at dataprotection@tencent.com.
+
+We will consider any request received in relation to the above and provide our response within a reasonable period (and in any event within any time period required by applicable law). We may request you provide us with information necessary to confirm your identity before responding to any request you make.
+
+Please note however that under certain circumstances the above rights may be restricted. If an exception applies, we will inform you of this when responding to your request.
+
+b) Data collected and processed by Advertisers and Publishers
+
+You have legal rights in relation to the personal information Advertisers and Publishers hold about you (to the extent permitted under applicable laws and regulations). To exercise these rights, including to exercise your right to opt out or withdraw your consent, please review the relevant App settings, privacy policy terms of the relevant Partner, and / or contact the Advertiser or Publisher directly.
+
+c) Browser and App settings
+
+In order to manage your advertising and tracking preferences, you can exercise your rights to opt out or limit collection of information from your devices by using the relevant browser and app settings – note you may need to opt out on each device and browser you use as certain cookies and tracking technology will be device and / or browser specific.
+
+To opt out on a cell phone or mobile device (as you use mobile apps): You can opt out of the collection of data for interest-based advertising on your mobile device, for companies participating in industry self-regulation, by downloading the DAA’s AppChoices application from the Android or iOS app store. If you live outside of the United States you can turn off the “Allow Apps to Request to Track” setting in your iOS settings or “opt out of interest-based ads” in your Android settings to limit the collection of your data for interest-based advertising.
+To opt out of the collection of precise location data (as you use your mobile device): You may wish to opt out of the collection of your precise location data. This would mean that certain data related to your online activity and general location (such as your city) could be collected, but data indicating your precise location (such as your GPS coordinates) could not be collected. You can do this by using the “location services” controls in your mobile device’s settings.
+8. Cookies
+We may use cookies and other similar technologies (“Cookies”) to enhance your experience using the Platform or our websites. Cookies are small files which, when placed on your device, enable us to provide certain features and functionalities. For more information about our cookies policies, please visit https://ad.qq.com and https://e.qq.com.
+
+9. Contact
+Please get in touch with us if you have any questions. Our data protection officer can be contacted at dataprotection@tencent.com.
+
+We will endeavour to deal with your request as soon as possible. This is without prejudice to any right you may have to launch a claim with a data protection authority in the region in which you live or work where you think we have infringed data protection laws.
+
+10. Changes
+If we make any changes to this Privacy Policy we will post the updated Privacy Policy here. Please check this page frequently to see if there are any updates or changes to this Privacy Policy.
+
+11. Language
+Except as otherwise prescribed by law, in the event of any discrepancy or inconsistency between the English version and local language version of this Privacy Policy, the English version shall prevail.
+
+Copyright © 1998 - 2025 Tencent Inc. All Rights Reserved
+
+腾讯公司 版权所有

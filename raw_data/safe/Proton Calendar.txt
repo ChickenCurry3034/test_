@@ -1,0 +1,79 @@
+Proton Calendar
+Proton
+Calendar
+Get Proton Calendar
+Sign in
+Open menu
+Proton Calendar - Privacy policy
+Last modified: June 26th, 2023
+
+This sub-policy is an integral part of the Proton Privacy Policy. It details the data processing activities specifically related to the creation and activity of your Proton Account when you use Proton Calendar.
+
+Account Activity: Proton Calendar uses end-to-end encryption to protect your calendar, and due to the encryption utilized, we do not possess the ability to decrypt any of your encrypted data. End-to-end encryption is used to protect event titles or summaries, descriptions, locations, and attendees' identifier (such as their email addresses). The Service does need to have access to some less sensitive event properties in order to send notifications and alarms to calendar users. For these purposes, we have access to event start and end times (including time zone), repetition rules (e.g. if an event reoccurs weekly), event creation and update times, and event status (e.g. if an event is cancelled). Data fields are also cryptographically signed in order to prevent event tampering or manipulation by a third-party.
+
+Easy Switch with "Sign In with Google": When you use our Easy Switch tool to import your data from Google and authenticate using the “Sign in with Google” option, Easy Switch's processing of information received from Google APIs will be performed in accordance with Google API Services User Data Policy, including the Limited Use requirements.
+
+Data Security: All servers used in connection with the provision of the Services are wholly owned and operated by Proton or our subsidiaries. Access to our infrastructure and servers is tightly controlled: only employees of Proton have physical or other access to the servers. Data is always stored in encrypted format on our servers, which are exclusively located in Switzerland or Germany, under the protection of some of the world's strongest privacy laws. Offline backups, which may be stored periodically, are also encrypted. We cannot decrypt any user encrypted content on either the production servers or in the backups. Backups are kept for up to 30 days.
+
+Proton
+Privacy by default
+
+X(new window)
+Reddit(new window)
+Instagram(new window)
+Facebook(new window)
+LinkedIn(new window)
+RSS
+Threads(new window)
+WhatsApp(new window)
+Telegram(new window)
+UserVoice(new window)
+YouTube(new window)
+TikTok(new window)
+Bluesky(new window)
+Proton AG
+Route de la Galaise 32
+1228 Plan-les-Ouates
+Geneva, Switzerland
+Products
+Proton Mail
+Proton Calendar
+Proton Drive
+Proton VPN(new window)
+Proton Pass
+Proton Wallet
+Proton for Business
+Switch to Proton
+Privacy and community
+Password generator
+Tor
+Community
+Open source
+Pricing
+Student discount
+Big Tech fines tracker
+Company
+About us
+Team
+Impact
+Proton Foundation
+Careers 
+We’re hiring
+Shop(new window)
+Connect
+Blog
+Help and support
+Partners and affiliates
+Press and media
+Contact us
+System status(new window)
+Report abuse
+Report a problem
+Report a security issue
+Request a feature(new window)
+
+English
+Privacy Policy
+Terms & conditions
+Transparency report
+© 2024 Proton AG. All rights reserved.

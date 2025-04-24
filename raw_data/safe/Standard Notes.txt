@@ -1,0 +1,130 @@
+Standard Notes
+Menu Icon
+Pricing
+Features
+Help
+Download for free
+Go to web app
+Right Arrow Icon
+Privacy Policy
+Standard Notes upholds the principle that privacy should be the norm on the internet. We are dedicated to ensuring your personal information remains private and under your control.
+
+This Privacy Policy outlines how Standard Notes handles your data, emphasizing our commitment to end-to-end encryption and minimal data collection. We offer clear, auditable, and peer-reviewed policies to guarantee transparency in our privacy practices.
+
+Our services, including our note-taking applications and related features, adhere to this Privacy Policy. By using Standard Notes and its features, you acknowledge and consent to the processing of your data as described in this Privacy Policy. Our approach to privacy includes:
+
+Details on the data we collect and how we manage it.
+Our use of your data, which is minimal due to our strong encryption and privacy-first approach.
+Measures we implement to protect your data, including our extensive use of end-to-end encryption.
+This Privacy Policy complements our terms and conditions, outlining our dedication to protecting your privacy across all aspects of our service.
+
+Legal Framework
+Standard Notes, operated by Standard Notes Ltd. ("the Company", "We", "Our"), is based in the United States. As such, our services are governed by the laws and regulations of the United States. We are committed to upholding the highest standards of privacy and data protection in accordance with U.S. laws.
+
+Despite being a U.S.-based entity, we recognize the importance of global data protection standards. We align our practices with internationally recognized privacy principles and strive to offer a level of data protection that respects and adheres to global standards, including those set by the General Data Protection Regulation (GDPR) for our European users.
+
+Data Standard Notes Collects from You and How We Use It
+Our fundamental policy is to collect the least amount of user information possible, ensuring a private and secure experience. Our services are designed so that we don't have access to the contents of your encrypted notes or any other private data.
+
+Data collection is limited to the following areas:
+
+Website Visitation: On our website, we use Plausible, a self-hosted, privacy-focused analytics suite that anonymizes IP addresses. These analytics are stored locally, not in the cloud, and we do not retain IP addresses.
+Account Creation: To use our services, you'll need to create an account with an email address. This email is used for notifications and for marketing purposes. You may disable marketing notifications from your preferences at any time.
+Human Verification Methods: To prevent spam, we may use human verification methods for account creation and sensitive operations. Any information collected during this process, like IP addresses, is stored temporarily and not used for any other purposes.
+Account Activity: We encrypt your data on your device before syncing it to our server. While our server stores metadata like creation and modification dates, it cannot read the content of your notes.
+User Agent: When you sign into your account, we store your user agent (device/browser name and version) to help you identify and manage devices signed into your account. You can disable user agent storage from your preferences.
+IP Address Collection: We do not store IP addresses in our own databases. IP addresses may be used or retained by Cloudflare or the AWS-based firewall to prevent abuse and spam.
+Communications with Standard Notes: When you contact us for support or inquiries, we store these communications to improve our service. We do not use third-party platforms like Zendesk for customer support.
+Payment Information: For payments, we use Stripe, PayPal, and Coinbase. We share necessary payment information with these processors but do not retain full credit card details on our systems.
+Applications: Our applications do not collect any location-based information or track usage data. We prioritize your privacy and security in every aspect of our application design.
+We are committed to ensuring your privacy across all interactions with Standard Notes, in line with our principles of minimal data collection and robust encryption.
+
+Data Subprocessors
+To deliver our services efficiently, Standard Notes engages with various data subprocessors. These processors are utilized for specific functions and do not store data beyond what is necessary for their designated purposes. Notably, they do not process data related to the general day-to-day use of your account and services, which is exclusively managed by Standard Notes. Our subprocessors include:
+
+Amazon Web Services (AWS):
+Purpose: Host our cloud servers and databases.
+Data Processing Location: Globally, in accordance with AWS's data center locations.
+Cloudflare:
+Purpose: DDoS Protection
+Data Processing Location: Globally, in accordance with Cloudflare's data center locations.
+Stripe, Inc.:
+Purpose: Process credit card payment data.
+Data Processing Location: United States.
+PayPal/Braintree:
+Purpose: Process PayPal payments.
+Data Processing Location: United States.
+Coinbase:
+Purpose: Process cryptocurrency transactions.
+Data Processing Location: United States.
+GitHub:
+Purpose: Host our source code repositories and provide CDN for desktop application downloads.
+Data Processing Location: United States.
+ProtonMail:
+Purpose: Manage encrypted support communications.
+Data Processing Location: Switzerland.
+These subprocessors are carefully chosen to ensure they align with our privacy and security standards, and we review and update our subprocessor list regularly to maintain the highest levels of data protection and privacy for our users.
+
+Data Disclosure
+At Standard Notes, we prioritize the privacy and security of our users. The limited user data we collect is disclosed only if we are legally compelled to do so by a valid and binding request from competent U.S. authorities. Our policy is to critically assess such requests to ensure they comply fully with U.S. law.
+
+Due to our robust encryption practices, it is important to note that we cannot decrypt end-to-end encrypted content. Therefore, we are unable to provide decrypted copies of user data.
+
+Your Privacy Rights at Standard Notes
+If your account has been suspended due to a breach of our terms and conditions and you wish to exercise your rights related to your personal data, you are welcome to contact our support team. We ensure that all such requests are handled in accordance with applicable U.S. data protection laws.
+
+In the event of a violation of your privacy rights, you have the right to raise a concern or file a complaint with the appropriate supervisory authority. We are committed to resolving any issues in compliance with our privacy policy and applicable laws.
+
+Modifications to Privacy Policy
+Standard Notes reserves the right to amend this Privacy Policy within the boundaries of applicable U.S. law. We encourage our users to regularly review this policy to stay informed about how we are protecting your information. By continuing to use our services, you acknowledge and agree to any changes made to this policy. Your continued use of our services following the implementation of these changes constitutes your acceptance of the revised Privacy Policy.
+
+Read More
+What information does Standard Notes collect about me?
+What services does Standard Notes use for daily operation?
+Standard Notes
+Arrow Icon
+Features
+Pricing
+Blog
+Source code
+Principles
+Arrow Icon
+Stand For Privacy
+Built to Last
+Write Fearlessly
+Principles & Philosophies
+Use Cases
+Arrow Icon
+Writers
+Legal Professionals
+Journalists
+Compare
+Arrow Icon
+vs Evernote
+vs Google Keep
+vs Simplenote
+vs Obsidian
+Articles
+Arrow Icon
+Best note taking app in 2025
+Resources
+Arrow Icon
+Help and FAQ
+Careers
+Community Forum
+Knowledge Base
+Media & Press
+Listed Blogging Platform
+Download
+Windows
+Download for free
+Follow Us
+X
+Discord
+YouTube
+Instagram
+LinkedIn
+Reddit
+Copyright © 2025 · Standard Notes
+Privacy Policy
+Terms of Service

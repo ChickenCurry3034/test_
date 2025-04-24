@@ -1,0 +1,138 @@
+The Wonder Weeks
+
+Menu
+
+
+Download app
+Home Privacy statement – Customers and website visitors
+
+Privacy statement – Customers and website visitors
+This privacy statement applies to the processing of personal data of customers and website visitors by Twise Victory Publishing (hereinafter referred to as ‘Twise’). Twise takes its responsibility for the protection of your personal data very seriously, and has therefore drawn up this privacy notice.
+
+The purpose of this privacy statement is to be transparent about the way in which Twise collects, uses and protects your personal data. It also explains how we comply with privacy legislation, such as the GDPR. Please read this statement carefully to understand how we handle your personal data. 
+
+We use personal data only for the purposes for which it was collected by us. For your information, we add this privacy statement to licence agreements and other agreements that we conclude with you (e.g. when you download an app) and have placed this privacy statement on our website.
+
+What is personal data?
+The General Data Protection Regulation (GDPR) states that personal data is information that relates to an identified or identifiable natural person. This means that the individual concerned can either directly or indirectly be identified from that information. 
+
+We do not process any health data. All information about your health and delivery is only stored locally on your device. Depending on the answers you give in the app, the app uses an algorithm to determine which content is relevant to you. We do not have access to the information you enter into the app – not even in the event of an outage.
+
+About us
+Twise Victory Publishing B.V., trading under the names of Oei, ik Groei! and The Wonder Weeks, with registered office at St. Walburgisplein 45 in (6811BZ) Arnhem, Netherlands (Chamber of Commerce no.: 58223169) is the data controller within the meaning of the GDPR (in other words, responsible for the data we receive from you).
+
+For what purposes do we process personal data?
+We process your personal data only for appropriate purposes defined in advance. Below you will find more information about various purposes.
+
+1. To create a customer account and access to “The Wonder Weeks – Back To You” app
+What does this purpose entail?
+
+If you have bought or received the Back To You book, the unique code will give you free access to The Wonder Weeks – Back To You app, including unique content. For this, you need to create an account using your email address and a password. The legal basis for this is the performance of the contract you have conclude with us by agreeing to the terms of use of the app (Article 6(1)(b) GDPR).
+
+If you are using the premium version of The Wonder Weeks – Back To You app, you do not need to create an account with us, but you do need an Apple or Google account. We do not receive any payment data or other data about you from Apple or Google. Furthermore, we do not have access to your account details at Apple or Google. In the context of our relationship with Apple or Google, we merely receive a unique identifier for administrative purposes.
+
+2. For product improvement of the Oei, ik Groei!, ‘The Wonder Weeks’ and ‘The Wonder Weeks – Back To You’ apps
+What does this purpose entail?
+
+As soon as you download, install and use our app, we process technical / analytical data on the use of the app. The data on the use of our apps is not linked to any individual user. We keep track, at an aggregate level, of how often certain buttons are pressed, what content is read and whether the content matches the baby’s development. This enables us to track which content is frequently viewed and used, and to continuously improve our apps and their content to better meet the needs of our users. 
+
+All data you enter, for example in the diary, or your baby’s name, date of birth and gender, is only stored locally on your device. We never have access to this data, not even in the event of an error or malfunction, and we do not store this data. In short, we do not process any personal data for this purpose.
+
+3. For customer service: handling of questions/comments/complaints
+What does this purpose entail?
+If you have any questions, comments or complaints, please contact our customer service. To be able to answer your questions we need certain information. The data we need depends on the question, comment or complaint. The legal basis for this is our legitimate interest in the efficient processing of questions, comments and complaints (Article 6(1)(f) GDPR).
+
+What personal data do we process for this purpose?
+
+Name, email address, phone number, app version, iOS/Android version, device version, app language, country location, time zone and any other data you share with us during your contact with our customer service. In exceptional cases, we will need your date of birth and bank account number (in case we need to refund you).
+
+4. For analyses and development of our website, products and services
+We also process data which you provide to us indirectly. Our website uses cookies for functional, analytical and marketing purposes. The functional cookies are necessary for the use of the website. 
+
+The following data are involved:
+
+Location data
+IP address or app IDs 
+Internet browser and device type
+Website language
+The data from the analytical and marketing cookies (if used) will not be linked to any other data. Please refer to our cookie statement for more information on cookies. The legal basis for this is your consent, which you give by agreeing to our cookie conditions in the cookie banner on the website (Article 6(1)(a) GDPR) or, in the case of functional cookies, our legitimate interest in a properly functioning website (Article 6(1)(f) GDPR).
+
+5. For marketing purposes
+What does this purpose entail?
+
+You can subscribe to the newsletter on our site. You will only receive marketing messages from us if you have given us permission or requested us to do so, or if you are a customer of ours and have not indicated that you do not wish to receive the marketing messages.
+
+If you have given your consent, we may also offer relevant products and services from our partners through our newsletter or app. 
+
+We can also show you relevant offers in our apps that you might be interested in, for example our toys that suit the development of your baby or an offer from one of our partners that you don’t want to miss.
+
+If you don’t want to receive our newsletter anymore, you can unsubscribe very easily by clicking on ‘unsubscribe’ in the email or by sending an email to info@www.thewonderweeks.com. The legal basis for this is your consent (Article 6(1)(a) GDPR), which you give when subscribing to the newsletter or, if you are a customer of ours, our legitimate interest in an effective marketing campaign (Article 6(1)(f) GDPR).
+
+Your rights
+You have the right to be well informed about what we do with your personal data and why we need your personal data. We do so by means of this privacy notice. In addition to the right to be informed in a transparent and easily accessible way, you have the following rights:
+
+Right of access (if you want to know which personal data we collect from you).
+Right to rectification (we will be happy to correct any data that is no longer accurate).
+Right to be forgotten or to erasure (In some cases, you can ask us to delete your data).
+Right to restriction of data processing (In some cases, you can request restriction of processing your data).
+Right to data portability (If you wish, we can pass on your data to another party or give you a copy of your data).
+Right to object (in some cases, you can object to processing of your data).
+If you wish to exercise any of your rights, please contact us by sending an email to info@www.thewonderweeks.com. We will respond to your request within one month.
+
+With whom do we share data and where do we store it?
+In a number of cases we provide your data to third parties, for example to processors who help us process your personal data, but also in the context of the performance of your work, to our shareholder and any partners with whom we collaborate. However, we will never sell your data to other parties.
+
+Processors who help us process your personal data are only allowed to use your data on our behalf and for the execution of the relevant services they provide to us. They may not use or pass on your personal data on their own behalf.
+
+We use various applications to process certain data. To ensure your privacy, we choose our suppliers carefully, and the applications are subject to strict rules. Most of the data is stored within the European Union.
+
+For the data that is processed outside the EU, we only work with parties that offer sufficient protection according to European rules. If we process your data outside the EU (possibly through our external service providers), we will ensure adequate protection of your personal data, for example by using special contracts (e.g. EU model contract provisions).
+
+How long will we retain your personal data?
+We will retain your data for as long as is necessary for the purpose for which we use your data and/or as long as required by law. The period may vary from a few months to many years, for example if so required for the purpose of efficient bookkeeping.
+
+We will in any case retain your data for as long as your account remains active, unless you ask us to delete data or your account through info@www.thewonderweeks.com. You can always view and/or change some of your personal data in your own account.
+
+How do we protect your personal data?
+Pursuant to Article 32 of the GDPR, we are obliged to take appropriate technical and organizational measures to prevent the loss of personal data or unlawful processing. The security of your personal data is well regulated by physical, administrative, organizational and technical measures. 
+
+Only authorized staff who have signed a confidentiality agreement have access to the data. Thus we maintain an adequate level of protection, which is periodically adjusted (if necessary). 
+
+Our organization is set up in such a way that we do everything in our power to prevent data breaches. If there is a data breach, we will act in accordance with the Data Breach Protocol.
+
+Contact and complaints
+If you have any questions about this privacy statement or wish to exercise your rights as a data subject, please contact us through info@www.thewonderweeks.com.
+
+If you are not satisfied with the way we use your data or how we respond to privacy-related issues, you can lodge a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens).
+
+Arnhem, The Netherlands, June 2022
+
+Follow us online
+
+Themes
+Pregnancy
+Newborn
+Infant
+Toddler
+Leaps
+Tools
+All the tools
+Baby leap calculator
+Due date calculator
+Gender predictor
+Fertility calculator
+App
+The Wonder Weeks App
+About us
+About us
+History
+FAQ
+Books
+Contact
+© 2025 The Wonder Weeks
+Copyright
+Privacy statements
+Cookies Policy
+Terms and Conditions
+Contact
+

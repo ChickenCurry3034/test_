@@ -1,0 +1,178 @@
+Philips Pregnancy+ App
+Privacy Notice
+Last modified [July 18, 2024]
+Introduction and scope
+This Privacy Notice explains how Philips processes information and personal data when you use the Philips Pregnancy+ app. The app provides personalized features tailored to your pregnancy journey, including weekly articles about each stage of your pregnancy, updates on your baby's development, insights into your health, as well as updates relevant to your pregnancy journey through personalized in-app messages and push notifications, and other features and services as described in the app terms.
+
+Please note that depending on your relationship to the baby, references to ‘your pregnancy’ may relate to either your own pregnancy or that of another individual whose pregnancy related information is provided to us by you. You agree that you have adequately informed and taken the consent of the individual whose pregnancy information you are providing to us in the app.
+
+For general information on how we process your personal data, please check the Philips Privacy Notice.
+
+Data controller
+The data controller of your data is Philips Consumer Lifestyle B.V., with address at High Tech Campus 5, 5656 AE, Eindhoven, The Netherlands.
+
+Why we process your data
+We process your personal data for the following purposes:
+
+Creating and Managing your Account. You can use the app with or without an account. You can create a new account with us using your email address, or using your existing Apple, Google or Facebook account credentials to securely log into the app. If you create an account, we process your account credentials and profile details to allow you to securely login to the app and provide you with our services.
+
+
+Providing app services. We enable you to gain insights into your pregnancy, well-being, baby’s development by providing you with personalized content, messages, tips and other services based on your pregnancy journey and app data.
+
+
+Securely storing your details. You can upload your pregnancy data to the app. If you create an account, we will securely store your pregnancy status and any other data that you choose to upload to the app. That way we can ensure your data is securely backed up and can be restored in case you remove the app and re-install it on another device.
+
+
+Providing a personal app experience. We use your app data (including pregnancy status) to provide you with personalized content tailored to your pregnancy journey. Based on your settings, we may send you regular updates relevant to your pregnancy stage, such as milestones in your baby’s development, through push notifications or in-app messages.
+
+
+Pregnancy+ Premium version and In-App Purchases. You can subscribe to the Premium version of the app depending on your country. The Premium version offers features beyond those available in the free version of the app, such as video and audio courses, audio guides by qualified experts covering specific topics and interactive tools. If available to you and if you decide to subscribe to the Premium version of the app, we will process your data to provide you with this service and manage your subscription. If the Premium version of the app is not available in your country, you may have the option to purchase some tools (e.g., kick counter, hospital bag, birth plan, etc.). We will process your data to unlock the tools that you purchased.
+
+
+Customer support. We may process information related to you and your use of our services, including your interaction with us, and how to contact you, to provide customer support, respond to your questions and requests, and fix our services.
+
+
+Serving in-app advertisements. We have partnered with third parties to enable us to show you either personalized or non-personalized advertisements in the app.
+
+
+Personalized Ads in the App. By consenting to receive personalized advertisements in the app, you allow us to use cookies/ similar technologies that collect and use certain app data related to your pregnancy journey or your app usage data in order to tailor the ads based on their relevance to you. When you provide your consent, we will share certain app data with our advertising partner, i.e., Google Ad Manager and Ad Exchange, which will use this data to serve advertisements that are relevant and interesting to you. Our advertising is contextual to the app itself, and we do not combine or use data from other sources to further personalize the ads based on your interests and preferences outside of the app environment.
+
+
+Non-personalized (limited) Ads in the App. If you do not opt to receive personalized ads, you will still see non-personalized ads in the app. These ads use the minimum required data that our advertising partner Google requires to deliver them.
+
+
+Improving our app and services. We want to improve the app and develop new features and solutions for you based on how you interact with us and use the app.
+
+
+Based on your app usage data. The data that we observe and collect when you use our services will help us improve the app and our products. We do so by:
+
+Assessing how you use the app and how the app performs on your mobile device, including when the app crashes to identify and fix issues.
+Implementing and analysing changes or features deployed across different test groups to understand interactions.
+Evaluating how the app is accessed and used and directly link you to specific app sections.
+Interacting with you to obtain your feedback, supporting you when required, and sending you service-related communications.
+Inviting you to participate in surveys or research projects organized by the Philips group and recording your answers.
+
+Based on your ratings and reviews. If you write a review or rate the app on the app stores, we may process such information to respond to your comments and questions, understand how you feel when using the app, get familiar with your general perception of the app and our brand, and use these insights to improve the app. We can only see your app store username, ratings, comments and any other detail you decide to share with us or make publicly available. Unless you require us to do so, we do not link this information to your account credentials or any other information we hold from you. Where you require customer support, we may use your data to follow-up on your case and guide you through our customer support process.
+
+
+Based on your survey answers. When you participate in a survey, we collect your personal data. Participation in surveys and research projects are entirely optional. The personal data we collect includes your responses, which may relate to your opinion and experience when interacting with our services or third-party services, as well as information about your pregnancy or about any other mother and childcare topics. We may process your survey data in combination with your app usage data. We use this data to gain an understanding of our users and use these insights to improve our app and services in the Philips mother & childcare domain. To do so, we analyse and aggregate your information and answers. Sometimes we run surveys in collaboration with selected partners. We only share aggregated results and insights with our partners and no personal data is shared with our partners.
+
+
+Allowing you to share your data with third parties. Some of the features in our app allow you to share your data with companies that you trust and with our selected business partners.
+
+
+Subscribing to our business partners’ marketing offers. We’ve teamed up with some partners and we may offer you the opportunity to opt into their marketing campaigns. By selecting one or multiple partners and signing up, you are consenting with the sharing of your contact details, due date, mobile device information and authorization with the selected partners to receive personalized offers from them in accordance with your choices. When we share your data with our partners, please note that we no longer have control over how our partners process your data (e.g., how long they store your data, etc.). We advise you to review the privacy notice of these partners to know more about how they may process your data, prior to providing your consent.
+
+
+Login using Third Party account credentials. You can choose to create an account with us using your existing Facebook, Google or Apple account credentials. You understand that Meta, Google and Apple provide their own services to you, and by using their account credentials to login to the App, you allow the selected third party to collect data from you (e.g., analytics data on your login, the name of the app you are using, URL associated with your login, etc.). These third parties may process your data in countries outside of your country of residence, which may not provide adequate protection to personal data in line with Regulation (EU) 2016/679. Using third party login is completely optional. Please read the privacy terms applicable to the selected third party for more information on how they use your data:
+
+Meta Privacy Terms
+Apple Privacy Terms
+Google Privacy Terms
+
+Advertising partners, for serving advertising in the app. We use Google’s ad serving solutions to serve Ads in the app. When you provide your consent to receive personalized ads, we will share certain app data with our advertising partner, i.e., Google Ad Manager and Ad Exchange, which will use this data to serve advertisements that are relevant and interesting to you, in line with the section titled, ‘Serving In-app advertisements’ of this notice. Additionally, Google may independently use your AdID/IDFA for other purposes such as frequency capping, aggregated ad reporting, and to combat fraud and abuse. To know more about how Google uses your data, please see Google’s Privacy Terms for these services.
+
+
+Other. The app may contain links to other sites or services of interest. Once you have used these links to leave the app, we do not have any control over those third-party sites or services. The information that you provide whilst visiting such sites is governed by their respective Privacy Notices.
+
+
+Pregnancy+ Premium Benefit Offers: This section only applies if you have obtained access to Pregnancy+ Premium subscription as a benefit offered to you (e.g., by your employer, by your insurance company or by our business partners). Please be aware that if you choose to sign up to Pregnancy+ App via benefit offers, in addition to the data processed according to this notice, Philips may need to process certain additional data as per the terms of the benefit offered to you. For instance, we may process your data to provide you with customized content at the request of such third party or process your analytics data for enabling payment by the third party, or share aggregated anonymous usage reports with such third party. We strongly encourage you to please read the terms of your offer before choosing to proceed.
+
+
+What data we process
+The categories of personal data we process include:
+
+Creating and Managing your Account. When managing your account, the data we process includes your account credentials and profile information, such as name, email address, username, account unique identifier, country, language, password, as well as your session, login and authentication information.
+
+
+Providing you app services
+
+Securely storing your details. When you create an account in our app, we securely store your account data (e.g., your name and account unique identifier) and any other data that you upload to the app, which includes, due date, baby’s gender, your gender, your age, your profile photo, your location, your relationship with baby, date baby is born, first child, pregnancy loss status, points earned and spent in the app, your uploaded pictures, your weekly notes, your diary entries and memories, your doctor’s visits, personal notes and questions that you may wish to record, mother’s weight, your favourite baby names, baby’s kicks, your shopping list, your hospital bag list, your birth plan, your to-do list, mother’s contraction, mother’s belly pictures.
+
+
+Providing a personal app experience. The data we process in order to provide you services in the app includes data that you directly provided to us in the app and data that we collected about your interactions with the app, through the use of cookies/similar technologies:
+
+Pregnancy status data (due date, day of pregnancy, week of pregnancy, pregnancy loss status, baby birth status, your relationship to baby);
+Electronic Identification data (e.g., app installation identifier, IP address, device identifiers, operating system, language and locale, time zone, device model);
+App usage data (e.g., app interactions, number of articles read/liked, notification authorization status, days active, last active time, app version, session).
+
+Pregnancy+ Premium version and In-App Purchases. The data we process to provide you with the Premium version of the app and manage your subscription includes subscription status, expiry date, trial period status, renewal status. Please note that your Premium subscription or in-app purchases will be purchased directly in the App Store or Google Play Store. Philips does not process your banking information used to process the payment for your Premium subscription or in-app purchases. Please read the privacy terms from Apple Store or Google Play for more information on how they process your data in this context.
+
+
+Customer support. When responding to your questions and requests and to provide customer support, we process your name, email address used to send the request, email content and attachments, device type, OS, app name, app version, email address associated to your account, and account unique identifiers. We may track whether you open the email sent in response to your request.
+
+
+Serving in-app advertisements
+
+Personalized ads in the app. When providing personalized advertising in the app, the data that we process includes:
+
+Electronic identification data (AdID/IDFA, IP address, operating system version, mobile carrier, country, language);
+Usage and events data (e.g., session, articles read, in-app purchases, etc.); and
+Pregnancy status and information about you (trimester, week of pregnancy, relationship to child, first child, baby born, your age (optional)).
+
+Non-personalized (limited) ads in the app. When providing non-personalized advertising in the app, the data we process includes your IP address, consent status, operating system version, country, language, and region.
+
+
+Improving our app and services
+
+When improving our app and services based on your app usage data, the data we process includes your app installation identifier, account unique identifier, mobile device identifiers, operating system version, device model, carrier, network information and (masked) IP addresses, locale, device settings, and app information, such as app name, app version, usage and events, app sections visited, and session information.
+When improving our app and services based on your ratings and reviews, the data we process include your app store username and profile, country, language, app version, device type, operating system version, app store purchase information in case of Google Play Store users (order identifier, purchase data and currency), ratings, reviews, comments and questions.
+When improving our app and services based on how you interact with us across multiple channels, the data we process include your IP addresses, mobile device information, communications you click on or tap, location details, and websites you visit.
+When improving our app and services based on your survey answers, the data we process include your app installation identifier, start and end time of survey, consent, your responses, which may relate to your opinion and experience when interacting with our services or third-party services, as well as information about your pregnancy, how you use the application or about any other mother and childcare topics.
+
+Allowing you to share your data with third parties
+
+Subscribing to our business partners’ marketing offers. If you opt to subscribe to our partners’ marketing offers and provide your consent, we share your contact details (email, first name, last name), due date, mobile device information (country, locale and operating system) and authorization (consent text and date) with the selected partners in accordance with this notice.
+
+
+Login using Third Party account credentials. When using your Facebook, Google, or Apple account to login to the app, the selected third party may share data with us (e.g., your name, email address, authentication token) and we may share analytics and app events data with them, in accordance with this notice.
+
+
+Personalized Ads. When consenting to receive personalized advertisements, we process and share information about your pregnancy status, and electronic identification data with our advertising partner, i.e., Google Ad Manager and Ad Exchange, in accordance with this notice.
+
+
+When you provide your consent to receive personalized ads, we will share certain app data with our advertising partner, i.e., Google Ad Manager and Ad Exchange, which will use this data to serve advertisements that are relevant and interesting to you, in line with the section titled, ‘Serving In-app advertisements’ of this notice. Additionally, Google may independently use your AdID/IDFA for other purposes such as frequency capping, aggregated ad reporting, and to combat fraud and abuse. To know more about how Google uses your data, please see Google’s Privacy Terms for these services.
+
+Lawful basis for processing
+The lawful bases we rely on to process your personal data are as follows:
+
+Creating and Managing your Account. We process your account data based on the app terms and relying on performance of contract. We process only such data as is necessary in order to create, verify, authenticate and manage your account with us, at your request. You have the option of using the app without creating an account.
+
+
+Providing you app services. We process data related to your pregnancy to provide you services in the app based on the app terms and relying on performance of contract. However, due to the very nature of the app, we need to process data about your pregnancy status (due date, week of pregnancy, etc.), which amounts to special category of data, in order to provide the core functionalities of the app itself, which includes enabling you to follow your or the mother’s pregnancy journey, keep track of your or the mother’s well-being and the baby’s development. Please note that we cannot provide the services without processing data related to your pregnancy. We rely on your explicit consent to process this data. However, you will be unable to use the app without providing us with this consent. You can choose to delete your account and all data associated therewith at any time if you do not want us to process this data.
+
+
+Customer support. We process your personal data based on performance of contract as is necessary to manage our services by identifying and fixing bugs and to provide customer support and reply to your request. However, we may process your data based on our legitimate interests to analyze the app’s performance for improvement of our services. We always verify that our legitimate interests do not outweigh your privacy rights and interests.
+
+
+Providing in app advertising.
+
+Personalized ads in the app. We process your personal data (including data related to your pregnancy) to provide you relevant and personalized advertising based on your explicit consent.
+
+Non-personalized (limited) ads in the app. We rely on our legitimate interest to deliver non-personalized ads to you that are not relevant to your stage of pregnancy, and not tailored to your interests / preferences.
+
+
+Improving our app and services. We process your personal data based on our legitimate interests. Our legitimate interests involve improving our services and developing new solutions for society and for you in the personal health domain. We always verify that our legitimate interests do not outweigh your privacy rights and interests.
+
+
+Allowing you to share your data with third parties. We process and share your personal data with third parties based on your explicit consent (e.g., Business Partners; Personalized Ads in the App), or where you make an express request to us (e.g., Login using Third Party account credentials).
+
+Permissions
+When required to provide our services, the app may request your permission to access your mobile device’s storage capabilities, sensors or other features. These permissions include:
+
+WiFi. The app requires WiFi connection to connect to the internet. You can at any time block WiFi connections through the settings of your mobile device.
+
+
+Camera or Photo Gallery (optional). If you add a picture to your profile, the app require permission to access your mobile device's camera or photo gallery.
+
+
+Calendar (optional). The app allows you to copy your appointments to your mobile device calendar.
+
+
+Apple Health (optional). If you are using iOS, you can authorize the app to read data from Apple’s Health App as well as to write data to Apple’s Health App. Subject to your choices, you may share information such as your weight. Philips’ cloud solutions do not sync with Apple. This means that the exchange of data only happens locally in your mobile device. Please note that, when you disable the sync with Apple’s Health App, the data that was previously exchanged while it was enabled remains available.
+
+
+Files. The app may require access to the mobile device’s files to store the language configurations and other files that the app uses to operate (e.g., graphics, media files, or other large program assets). If you delete the app, the data will be deleted from your mobile device.
+
+
+Other. In some cases, your operating system may request permissions that your mobile device needs for technical reasons, but that are not controlled or used by Philips. We will not collect any data associated with such permissions unless required to provide our services in accordance with this notice.

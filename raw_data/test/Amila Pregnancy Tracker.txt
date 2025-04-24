@@ -1,0 +1,301 @@
+Privacy Policy
+Last Updated: 8 September 2024
+
+For Amila Tech Limited, the security of your personal data is of paramount importance. Ensuring a transparent process of personal data processing, which allows you to independently control such processing, holds great significance in building a trustworthy relationship with you. In this regard, the Privacy Policy is developed to provide you with up-to-date information on what we and affiliated companies (jointly referred to as “Amila” or “we”, “us”, “our”) do with your personal data.
+
+This Privacy Policy explains how Amila complies with the provisions of the General Data Protection Regulation (“GDPR”), the UK GDPR, US Laws and any other applicable data protection laws and regulations.
+
+This Privacy Policy governs the processing of personal data in your interactions with us when you use our Pregnancy Tracker, Baby Tracker, Sleep sounds, Contraction counter, and Kegel Exercises Apps (the “Apps”).
+
+Table of content
+ABOUT AMILA
+HOW DO WE PROCESS YOUR PERSONAL DATA?
+RETENTION OF PERSONAL DATA
+WHO HAS ACCESS TO YOUR PERSONAL DATA?
+YOUR PRIVACY RIGHTS
+UNITED STATES PRIVACY RULES
+OTHER INFORMATION ABOUT PROCESSING
+1. ABOUT AMILA
+Amila, duly incorporated in and registered under the laws of the Republic of Cyprus, with a registered office at 44 Georgiou Griva Digeni, Atlantic House, 4th floor, 8047, Paphos, Cyprus acts as a data controller. It means we determine the purposes and means of the processing of personal data.
+
+Since we are registered under the law of the Republic of Cyprus, the personal data authority overseeing us regarding the personal data processing is Commissioner for Personal Data Protection. You always have the right to make a data protection related complaint at any time to a supervisory authority. You may also contact your local data protection authority. A list of local data protection authorities is available here.
+
+If you would like to exercise your data protection related rights you can submit your request to our e-mail: developers.amila@gmail.com.
+
+2. HOW DO WE PROCESS YOUR PERSONAL DATA?
+2.1 Amila performs the following actions with personal data: collection and disclosure by transmission (the latter does not apply to special personal data).
+
+2.2 We process personal data in the following ways:
+
+when you provide us with personal data. You provide us with your personal data in order to realize the purposes of the processing. For example, in order to create an account in the Apps we need the personal data we receive from you;
+when personal data is collected automatically. There are tools that allow us to collect technical personal data about you when you use the Apps. For certain purposes (e.g. to enable you to technically use the Apps, to track and fix bugs in the Apps), we automatically collect your personal data where there is a legal basis to do so;
+when we receive your personal data from third-parties. For instance, we could gather information from these external sources to improve or add to your existing data, as well as to personalize your experience and for statistical analysis and other analytical purposes.
+2.3 We collect personal data from you to the amount which is strictly necessary to fulfil the purposes of processing. Categories of personal data that we process are specified below.
+
+Personal data
+
+To monitor the proper functioning of the App, identify operational issues, tracking, analyzing and fixing crashes
+Processed personal data
+
+Apps usage data (app launches, taps, and other interactions between the user and the Apps)
+Device data (device name, device model and operating system, device time zone, device language)
+Crash data (crash traces, breakpad minidump formatted data, crashlytics installation UUIDs (NDK crashes only))
+Legal basis for the processing
+
+Legitimate interest (your interest lies in using the Apps without technical problems; our interest is in ensuring your satisfaction, upholding the bug-free of the Apps provided)
+
+Retention period
+
+90 days for Google Inc. (Google Firebase) from the date of receipt of the personal data
+
+To facilitate the display of advertisements, including personalized ones, through third-party advertising networks
+Processed personal data
+
+Apps usage data (app launches, taps, and other interactions between the user and the Apps, carrier)
+Device data (device name, device model and operating system, device time zone, device language)
+IP address
+Advertisement data (Advertising Identifier for iOS, advertising and tracking preferences and restrictions, Advertising IDs (Google Advertising ID, Google Device ID, IDFA/Amazon FOSAID, Vendor IDs (IDFV), App Set IDs, device properties related to screen size, orientation, audio, battery, device memory usage, settings, and boot time, device settings related to accessibility features, fontsize, theme, name and properties of mobile application through which user interacts with the Apps, network connection type and speed, Internet browser user-agent used to access the Apps, HTTP header information; ads type (e.g., interstitial / banner / rewarded); advertisement placement name; impressions count; revenue figures)
+GeoIP (country, time zone, and locale settings, country and preferred language, city- and/or country-level or other coarse geolocation data)
+Legal basis for the processing
+
+Legitimate interest (your interest lies in accessing and utilizing the Apps without incurring any charges; our interest is to monetize Apps while offering them to you without any charges); and
+Consent – for displaying personalized advertisements
+Retention period
+
+2 years for Google Inc. (Google AdSense, Google Ads) and AppLovin Corporation from the date of receipt of the personal data
+
+To analyze you for the purpose of discerning the audience of the Apps, analyze Apps usage, to improving Apps design and Apps quality
+Processed personal data
+
+Apps usage data (Apps launches, taps, and other interactions between the user and the Apps)
+Device data (device name, device model and operating system, device time zone, device language)
+GeoIP (country, time zone, and locale settings (country and preferred language, city- and/or country-level or other coarse geolocation data)
+Legal basis for the processing
+
+Legitimate interest (your interest is to make the Apps fit your preferences; our interest is to improve our Apps, to make it more user-friendly)
+Retention period
+
+2 months for Google Inc. (Google Analytics 4) and 180 days for Google Inc. (Google Firebase) from the date of receipt of the personal data
+To deliver the current functionalities of the Apps, which are not related to the provision of health personal data (account management, taking notes in the Apps, etc.)
+Processed personal data
+
+Apps usage data (Apps launches, taps, the length of the notes, and other interactions between the user and the Apps)
+Device data (device name, device model and operating system, device time zone, device language)
+Legal basis for the processing
+
+Contract
+Retention period
+
+2 months for Google Inc. (Google Analytics 4) and 180 days for Google Inc. (Google Firebase) from the date of receipt of the personal data
+To send technical notifications, updates, security alerts, helpdesk and administrative messages
+Processed personal data
+
+Device data (device name, device model and operating system, device time zone, device language)
+Legal basis for the processing
+
+Contract
+Retention period
+
+180 days for Google Inc. (Google Firebase) from the date of receipt of the personal data
+To provide the user with an answer to question (technical support, exercising the data privacy rights, other assistance in connection with the Apps)
+Processed personal data
+
+Device data (device name, device model and operating system)
+E-mail
+Other data user has provided in correspondence
+Legal basis for the processing
+
+Legitimate interest (your interest is in receiving response to the issue; our interest is in ensuring good customer service)
+Retention period
+
+1 year after the user's request is resolved
+To promote our Apps to reach people like you on various platforms and spread the word about Amila
+Processed personal data
+
+Apps usage data (Apps launches, taps, the length of the notes, and other interactions between the user and the Apps)
+Device data (device name, device model and operating system, device time zone, device language)
+Legal basis for the processing
+
+Consent
+Retention period
+
+2 years for Google Inc. (Google AdSense, Google Ads) from the date of receipt of the personal data
+Sensitive personal data
+
+Using our Apps, you can monitor and plan the progress of your pregnancy, track your health data and your baby, track baby’s behavior. To use the Apps, you upload into the Apps sensitive personal data, such as pregnancy and information relating to pregnancy (estimated date of birth, LMP, current pregnancy week, pregnancy symptoms, etc.), weight, height, baby kicks information, contractions information, baby’s vaccines, temperature, medications taken, information related to babies feeding (nursing), sleep, diaper change, tummy time, play time, outdoors time, bath time, information related to breast pumping, etc.
+
+AMILA DOESN’T STORE YOUR SENSITIVE PERSONAL DATA; IT IS STORED ONLY ON YOUR DEVICE FOR ITS SAFETY.
+
+We may access your sensitive personal data, if necessary, for example, when updating our Apps to ensure they function correctly.
+
+Legal basis for such processing is only your Consent.
+
+3. RETENTION OF PERSONAL DATA
+3.1 We exclusively collect your personal data without retaining it on our servers. Sensitive personal data is exclusively stored on your devices only as long as you’re using our Apps. Other personal data (except for personal data obtained for the purpose of providing answers to users' questions) transmitted and stored by our partners listed in Section 4.
+
+Our partners process your personal data (except sensitive personal data) on our behalf and provide us with general aggregated statistical information, so we could analyze user behavior, target users by audiences, etc.
+
+3.2 Our third-party collaborators adhere to a data retention policy, ensuring the removal of your personal data according to each third-party collaborators' privacy policies listed in Section 4, but in any case, this does not exceed 2 years from the point of collection. Section 2 contains information about which personal data our partners have access to.
+
+For example, Google Inc. retains data for 2 months (for Google Analytics 4), and 2 years (for Google Adsense and Google Ads), and 90 days (for Google Firebase); AppLovin Corporation retains data for 2 years.
+
+4. WHO HAS ACCESS TO YOUR PERSONAL DATA?
+4.1 We may engage third-party service providers to process your personal data on our behalf. We refer to these service providers as “processors”. We partner with certain trusted companies to provide you with the best experience using our Apps. These partners may include service providers, analytics platforms, and others. We share only the necessary information with them to help them perform their functions, such as analyzing the use of our Apps. We choose our partners carefully and require them to adhere to high standards of data protection.
+
+We engage third-party service providers as follows:
+
+Storage server providers. We rely on trustworthy hosting providers who ensure the safe storage and processing of your personal data. These providers ensure the availability and reliability of our Apps infrastructure, such as the server, databases, and storage systems. For this propose we engage following third-party:
+
+Google Inc. (Google Firebase) (USA)
+Data processing terms
+Analytics Platforms. To improve our App’s quality and provide a better user experience, we may utilize analytics platforms that gather and analyze data on our behalf. These platforms help us understand user behavior and Apps performance, among other things. The data collected is aggregated and anonymized to safeguard your privacy. For this propose we engage following third-party:
+
+Google Inc. (Google Analytics, Google Firebase)
+Privacy policy
+Data processing terms
+4.2 We may collaborate with advertising networks to exhibit advertisements, which can be personalized. These networks may gather particular information about how you interact with the Apps and use it to provide advertisements based on your preferences and interests. For this propose we engage following third-party (“data controllers”):
+
+Google Inc. (Google AdSense, Google Ads) (USA)
+Privacy policy
+Ads processor terms
+AppLovin Corporation (USA)
+Privacy policy
+4.3 We may occasionally engage other third-party service providers. The list of such contractors could be subject to changes, but each time before transferring your personal data to new counterparties, we:
+
+assess the level of adequacy of personal data protection by such third-party service providers;
+enter into a Data Processing Addendum with such third-party service providers.
+Moreover, we ascertain the existence of legitimate bases for cross-border data transfers (if applicable). The details concerning the utilization of these entities will be expeditiously incorporated into this Privacy Policy.
+
+4.4 Please note that we may engage reputable partners located outside the EU and EEA in our operations for specialized services. While our preference is to engage partners within the EU or EEA where data protection standards are aligned with the GDPR, there may be instances where we need to collaborate with reputable partners located outside these regions. We carefully select partners who meet stringent data protection standards and establish comprehensive data protection agreements to ensure the privacy and security of personal data. Our commitment to data protection remains consistent across all partnerships.
+
+4.5 PLEASE NOTE THAT WE DON’T DISCLOSURE BY TRANSMISSION YOUR SENSITIVE PERSONAL DATA TO THE THIRD PARTIES.
+
+5. YOUR PRIVACY RIGHTS
+5.1 Right under GDPR, UK GDPR
+
+As a data subject, you have certain rights regarding your personal information. We are committed to upholding these rights and ensuring that you can exercise them effectively.
+
+Below, you can find the information regarding your rights as a data subject under EU, UK legislation:
+
+Right of access. You have the right to access a copy of your personal data, along with any supplementary information.
+Upon receiving your request, we will provide you with a copy of the personal data we process in the form in which you have requested the provision of this information. Please note that in some cases, we may charge you a reasonable fee for providing this information. If we are unable to fulfill your request for any reason, we will provide you with an explanation and inform you of your rights to appeal the decision.
+
+Restriction of processing. You can restrict of processing your personal data under specific conditions, such as when its accuracy is contested, when the processing is unlawful or when you have objected to the processing.
+To exercise this right, please contact us at the e-mail indicated above. Upon receiving your restriction to processing will not process your personal data unless it is based on consent or for the establishment, exercise or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest.
+
+Erasure of your personal data. You can delete or remove your personal data in certain circumstances.
+Please note that we do not have access to your personal data, it is stored on your devices or process by our contractors. Therefore, upon receiving your request for erasure, we will assess whether the conditions for erasure are met and, if so, promptly notify any third parties to whom the data have been disclosed.
+
+You can exercise this right by yourself by click “Delete” option in your account in the Apps.
+
+Right to rectification. You can correct incomplete or inaccurate personal data.
+Please note that we do not have access to your personal data, it is stored on your devices or process by our contractors. Therefore, you can exercise this right by yourself by following these steps:
+- open a personal profile in the Apps;
+- locate personal data you wish to correct and edit it;
+- save the changes to update your data instantly.
+
+Right to data portability. This right allows you to receive a copy of your personal data in a structured, commonly used, and machine-readable format if it is technically possible to do so and to transmit those data to another controller.
+You can exercise this right by yourself by following these steps:
+- open a personal profile in the Apps;
+- select the “Privacy options” -> “Export” option in the settings.
+
+Right to object to the processing of your personal data. If we rely on legitimate interests for processing your personal data, you have the right to object to such processing based on your specific situation.
+To exercise this right, please contact us at the e-mail indicated above. Upon receiving your objection to processing, we will assess the validity of your objection and, if valid, cease processing your personal data for the purposes to which you have objected.
+
+Right to withdraw consent. If you provided explicit consent for the processing of your personal data, you have the right to withdraw your consent at any time.
+You can exercise this right by yourself by following these steps:
+- open a personal profile in the Apps;
+- select the “Manage privacy options” option in the settings.
+
+Right to lodge a complaint. If you believe that our processing of your personal data violates applicable legislation, you have the right to lodge a complaint with a supervisory authority.
+Please note that these rights are subject to certain limitations and exceptions as provided by law. To exercise any of these rights or for further inquiries, please contact us using the provided contact information.
+
+We will review your request as soon as possible, but not more than within one (1) month. Please keep in mind that this period may be extended for an additional two (2) months, if necessary, based on the complexity and number of your requests. In that case, we will tell you about the extension within one (1) month of receipt of your request and explain the reasons for the delay.
+
+6. UNITED STATES PRIVACY RULES
+6.1 Applicability of the Section. This Section 6 is devoted to the processing of personal data of residents of US states where privacy laws have been adopted and are in force, in particular the California Consumer Privacy Act of 2018 as amended by the California Privacy Rights Act, the Colorado Privacy Act, the Connecticut Data Privacy Act, the Virginia Consumer Data Protection Act, The Utah Consumer Privacy Act and each of the related regulations (the “US Laws”).
+
+This Section 6 discloses information required in accordance with US Laws, as well as provides additional information about how we collect, use, transfer and otherwise process personal information, as well as information about the exercise of rights in accordance with US Laws, applies to the residents of US states.
+
+6.2 Details of processing of personal data. As stated in Section 2 of the Privacy Policy, we receive personal data (1) when you provide us with personal data, (2) when personal data is collected automatically; or (3) when we receive your personal data from third-parties. Detailed information about each source of personal data is contained in Section 2 of Privacy Policy.
+
+We collect personal data from you to the amount which is strictly necessary to fulfil the purposes of processing. Categories of personal data that we process are specified below:
+
+Purpose of processing	Categories of processed personal data and source (s) of personal data	Third parties whom we disclose your personal data
+To monitor the proper functioning of the App, identify operational issues, tracking, analyzing and fixing crashes	Personal data that collected automatically the list of which is specified in the Section 2 of Privacy Policy in connection to this purpose of processing	Analytics Platforms the list of which is specified in the Section 4 of Privacy Policy
+To facilitate the display of advertisements, including personalized ones, through third-party advertising networks	Personal data that collected automatically the list of which is specified in the Section 2 of Privacy Policy in connection to this purpose of processing	Advertising Networks the list of which is specified in the Section 4 of Privacy Policy
+To analyze you for the purpose of discerning the audience of the Apps, analyze Apps usage, to improving Apps design and Apps quality	Personal data that collected automatically the list of which is specified in the Section 2 of Privacy Policy in connection to this purpose of processing	Analytics Platforms the list of which is specified in the Section 4 of Privacy Policy
+To deliver the current functionalities of the Apps, which are not related to the provision of health personal data (account management, taking notes in the Apps, etc.)	Personal data that collected automatically the list of which is specified in the Section 2 of Privacy Policy in connection to this purpose of processing	Analytics Platforms the list of which is specified in the Section 4 of Privacy Policy
+To send technical notifications, updates, security alerts, helpdesk and administrative messages	Personal data that collected automatically the list of which is specified in the Section 2 of Privacy Policy in connection to this purpose of processing	Analytics Platforms the list of which is specified in the Section 4 of Privacy Policy
+To provide the user with an answer to question (technical support, exercising the data privacy rights, other assistance in connection with the Apps)	Personal data that collected automatically:
+Device data (device name, device model and operating system)
+E-mail
+Other data user has provided in correspondence
+Personal data is not disclosed
+To promote our Apps to reach people like you on various platforms and spread the word about Amila	Personal data that collected automatically the list of which is specified in the Section 2 of Privacy Policy in connection to this purpose of processing	Advertising Networks the list of which is specified in the Section 4 of Privacy Policy
+6.3 Selling and sharing of personal data. Amila does not “sell” personal data as commonly understand that term; Amila does not, and will not, disclose your personal data in direct exchange for money or some other form of payment. However, Amila may “share” personal data for purposes of serving you with personalized advertisements or content, otherwise known as “interest-based advertising” or “cross-context behavioral advertising”.
+
+According to the expanded definition of “sale” in certain US Laws, some advertising and analytical activities may constitute a “sale”.
+
+For some purposes, we may share your personal data with third parties, as indicated in the table above.
+
+6.4 Data retention period. We process your personal data as described in the Section 3 of the Privacy Policy.
+
+6.5 Privacy Rights. As a data subject, you have certain rights regarding your personal data. We are committed to upholding these rights and ensuring that you can exercise them effectively.
+
+Below, you can find the information regarding your rights as a data subject under US Laws:
+
+Right to access and know. You have the right to request that we disclose the categories and specific personal data that we have collected about you, the categories of sources from which the personal data was collected, the purposes for which the personal data was collected, and the categories of third parties with whom we have shared the personal data.
+Upon receiving and verifying your request, we will promptly provide you with the requested information for the 12-month period preceding your request free of charge in a readily usable format, unless an exception applies.
+
+Right to delete. You have the right to request the deletion of the personal data that we have collected, subject to certain exceptions as permitted by US Laws.
+Please note that we do not have access to your personal data, it is stored on your devices or process by our contractors. Therefore, upon receiving and verifying your request, we will assess whether the conditions for deletion are met and, if so, promptly notify any third parties to whom the data have been disclosed.
+
+You can exercise this right by yourself by click “Delete” option in your account in the Apps.
+
+Right to data portability. This right allows you to receive a copy of your personal data in a structured, commonly used, and machine-readable format if it is technically possible to do so and to transmit those data to another controller.
+Upon receiving your request for data portability, we will provide you with a copy of your personal data in the requested format, where technically feasible.
+
+You can exercise this right by yourself by following these steps:
+- open a personal profile in the Apps;
+- select the “Privacy options” -> “Export” option in the settings.
+
+Right to opt-out of sale. You have the right to opt-out of the sale of your personal data.
+Please, note, that we do not, and will not, provide your personal data in direct exchange for money. Therefore, in the literal sense, we do not sell your personal data. However, we have disclosed some categories of personal data we collect to the third parties for business purpose as explained in the table above. To the extent that this practice is construed as a “sale” under the US Laws, we will exercise your right to refuse to make a sale in the event that you request us to.
+
+To exercise this right, please contact us at the e-mail indicated above.
+
+Right to non-discrimination. You have the right to non-discrimination, under which we cannot refuse to provide our Apps, charge you a different price, or provide goods or Apps of a different level or quality just because you exercised your rights under the US Laws.
+We will not deny Apps, charge different prices, or provide a different level or quality of Apps based on their exercise of US Laws rights.
+
+Right to correct. You have the right to ask us to correct inaccurate personal data that we have about you.
+Please note that we do not have access to your personal data, it is stored on your devices or process by our contractors. Therefore, you can exercise this right by yourself by following these steps:
+
+
+open a personal profile in the Apps;
+locate personal data you wish to correct and edit it;
+save the changes to update your personal data instantly.
+Right to limit sensitive data processing. Under the US Laws you have the right to direct controller to only use your sensitive personal data (for example, your social security number, financial account information, your precise geolocation data, or your genetic data) for limited purposes. But please note that your sensitive personal data is stored only on your device.
+Right to opt-out of the use of automated decision making. In certain circumstances, you have the right to opt-out of the use of automated decision making in relation to your personal data.
+Right to opt-out of certain processing (profiling/targeted advertising). You have the right to opt-out of the “sharing” of your personal data for “personalized advertising,” often referred to as “interest-based advertising” or “targeted advertising.”
+You can exercise this right in two ways:
+
+by yourself by following these steps:
+- open a personal profile in the Apps;
+- select the “Manage privacy options” option in the settings, or
+by contacting us at e-mail indicated above.
+Please note that opting out of personalized advertising does not mean that you will not receive advertising. You may still receive advertisements, but those ones that are not relevant to your interests.
+
+7. OTHER INFORMATION ABOUT PROCESSING
+7.1 Security measures. To protect your personal data, we have taken the following steps:
+
+abstained from implementing a server-side system;
+implemented confidentiality commitments with all our employees, supplemented by comprehensive training sessions that underscore the importance of safeguarding personal data;
+adopted a highly restricted approach in selecting third-party services for integration into our applications, with contractual agreements established for each such entity.
+7.2 Age limits. We do not knowingly collect or request personal data from individuals under the age of 13 (or 16 in the EEA), and we do not allow such individuals to use our Apps. If you are under the age of 13 (or 16, where applicable), please refrain from providing us with any personal data. If we become aware that we have inadvertently collected personal data from a person under the age of 13 (or 16, where applicable), we will promptly delete it. If you believe that we may have personal data about or from someone under the age of 13 (or 16, where applicable), please contact us using the provided contact information.
+
+7.3 Profiling. The Apps feature profiling functionalities that analyze personal data and potentially other user-related information. Through this process, the Apps generate predictions concerning the progress of pregnancy, tracking health data and your baby, tracking baby’s behavior, and similar outcomes. To the extent that these actions could be considered profiling according to the definition set out in applicable personal data legislation, we do not undertake any other actions that could potentially be regarded as profiling.
+
+7.4 Changes to the Privacy Policy. This Privacy Policy may be changed from time to time due to the implementation of new technologies, laws’ requirements or for other purposes. Your continued use of the Apps after the effective date of the updated Privacy Policy will be subject to the new Privacy Policy. If we make any major changes to our Privacy Policy and will need your explicit consent for further processing of your personal data, we will request your consent or your renewed consent (in case it was obtained previously).
+
+7.5 Other links. Our Apps may include links to websites operated by third parties that are not under our control. If you click on a link to a third-party website, you will be redirected to that website. We recommend reviewing the privacy terms of each website you visit. We have no control over and do not assume any responsibility for the content, privacy terms, or practices of third-party websites or services. This Privacy Policy does not apply to information collected offline or by third parties not affiliated with Amila that the Apps may link to.
